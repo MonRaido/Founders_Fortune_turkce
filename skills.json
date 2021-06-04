@@ -1,4 +1,4 @@
-{
+﻿{
 	"skillTitle_Undefined": {
 		"english": "Unknown Skill",
 		"dutch": "Onbekend bekwaamheid",
@@ -426,6 +426,7 @@
 	"skillDesc_deepIronMine": {
 		"english": "Can go into deep mines to dig for additional iron ore.",
 		"german": "Kann tiefe Minen betreten um nach zusätzlichem Eisenerz zu graben.",
+		"turkish": "Ek demir cevheri kazmak için derin madenlere girebilir.",
 		"french": "Peut aller dans des mines profondes pour y récupérer du minerai de fer supplémentaire.",
 		"russian": "Возможность заходить в глубокие шахты для добычи дополнительного железа.",
 		"spanish": "Puede entrar en minas profundas para excavar hierro adicional.",
@@ -441,6 +442,7 @@
 	"skillTitle_deepCrystalMine": {
 		"english": "Deep Crystal Mining",
 		"german": "Tiefer Kristallbergbau",
+		"turkish": "Derin Kristal Madenciliği",
 		"french": "Minage de cristaux en profondeur",
 		"russian": "Масштабная добыча кристаллов",
 		"spanish": "Minado de Cristales Profundo",
@@ -456,6 +458,7 @@
 	"skillDesc_deepCrystalMine": {
 		"english": "Can go into deep mines to dig for additional crystals.",
 		"german": "Kann tiefe Minen betreten um nach zusätzlichen Kristallen zu graben.",
+		"turkish": "Ek kristaller çıkarmak için derin madenlere girme yeteneği.",
 		"french": "Peut aller dans des mines profondes pour y récupérer des cristaux supplémentaires.",
 		"russian": "Возможность заходить в глубокие шахты для добычи дополнительных кристаллов.",
 		"spanish": "Puede entrar en minas profundas para excavar cristales adicionales.",
@@ -471,6 +474,7 @@
 	"skillTitle_minerMasterOutfit": {
 		"english": "Master Outfit",
 		"german": "Meisterkleidung",
+		"turkish": "Usta Madenci Kıyafet",
 		"french": "Équipement maître",
 		"russian": "Использование экипировки",
 		"spanish": "Traje de Maestro",
@@ -486,6 +490,7 @@
 	"skillDesc_minerMasterOutfit": {
 		"english": "Can wear outfits meant for master miners.",
 		"german": "Kann Kleidung für Meisterbergarbeiter tragen.",
+		"turkish": "Usta madenciler için tasarlanmış kıyafetler giyebilir.",
 		"french": "Peut porter l'équipement destiné aux maîtres mineurs.",
 		"russian": "Возможность	носить экипировку, предназначенную для мастеров-шахтеров.",
 		"spanish": "Puede vestir trajes hechos para los maestros mineros.",
@@ -505,6 +510,7 @@
 	"skillTitle_farmerBasics": {
 		"english": "Basics of Farming",
 		"german": "Grundlagen der Landwirtschaft",
+		"turkish": "Tarımın Temelleri",
 		"french": "Bases de l'agriculture",
 		"russian": "Основы сельского хозяйства",
 		"spanish": "Fundamentos de Agricultura",
@@ -521,6 +527,7 @@
 	"skillDesc_farmerBasics": {
 		"english": "Knows enough how to stop plants from dying.",
 		"german": "Weiß genug, um Pflanzen am sterben zu hindern.",
+		"turkish": "Bitkilerin ölmesini nasıl durduracağını yeterince biliyor.",
 		"french": "Sait plutôt bien comment empêcher les plantes de mourir.",
 		"russian": "Владение знаниями, достаточными для поддержания жизни растений.",
 		"spanish": "Sabe lo suficiente para evitar que las plantas mueran.",
@@ -536,6 +543,7 @@
 	"skillTitle_sowStrawberries": {
 		"english": "Sowing Strawberries",
 		"german": "Erdbeeren säen",
+		"turkish": "çilek ekmek",
 		"french": "Semer des fraises",
 		"russian": "Посадка клубники",
 		"spanish": "Siembra de Fresas",
@@ -551,6 +559,7 @@
 	"skillDesc_sowStrawberries": {
 		"english": "Can sow strawberries.",
 		"german": "Kann Erdbeeren säen.",
+		"turkish": "çilek ekebilir.",
 		"french": "Peut semer des fraises.",
 		"russian": "Возможность выращивать клубнику",
 		"spanish": "Puede sembrar fresas.",
@@ -566,6 +575,7 @@
 	"skillTitle_sowWheat": {
 		"english": "Sowing Wheat",
 		"german": "Weizen säen",
+		"turkish": "buğday ekmek",
 		"french": "Semer du blé",
 		"russian": "Посадка пшеницы",
 		"spanish": "Siembra de Trigo",
@@ -582,6 +592,7 @@
 	"skillDesc_sowWheat": {
 		"english": "Can sow wheat.",
 		"german": "Kann Weizen säen.",
+		"turkish": "buğday ekebilir",
 		"french": "Peut semer du blé.",
 		"russian": "Возможность выращивать пшеницу.",
 		"spanish": "Puede sembrar trigo.",
@@ -597,6 +608,7 @@
 	"skillTitle_campfireCooking": {
 		"english": "Cooking at Campfire",
 		"german": "Kochen am Lagerfeuer",
+		"turkish": "Kamp ateşinde yemek pişirmek",
 		"french": "Cuisiner au feu de camp",
 		"russian": "Готовка на костре",
 		"spanish": "Cocina en la hoguera",
@@ -612,6 +624,7 @@
 	"skillDesc_campfireCooking": {
 		"english": "Can roast some food over the campfire.",
 		"german": "Kann Essen über dem Lagerfeuer rösten.",
+		"turkish": "Kamp ateşinde biraz yiyecek pişirebilir.",
 		"french": "Peut faire rôtir de la nourriture au dessus d'un feu de camp.",
 		"russian": "Возможность готовить еду на костре.",
 		"spanish": "Puede asar algo de comida en la hoguera.",
@@ -627,6 +640,7 @@
 	"skillTitle_kitchenCooking": {
 		"english": "Cooking at Kitchen",
 		"german": "Kochen in der Küche",
+		"turkish": "Mutfakta Yemek Yapmak",
 		"french": "Cuisiner à la cuisine",
 		"russian": "Готовка на кухне",
 		"spanish": "Cocina en la Cocina",
@@ -642,6 +656,7 @@
 	"skillDesc_kitchenCooking": {
 		"english": "Can make delicious meals in the kitchen.",
 		"german": "Kann köstliche Mahlzeiten in der Küche zubereiten.",
+		"turkish": "Mutfakta lezzetli yemekler yapabilir.",
 		"french": "Peut préparer de délicieux repas dans la cuisine.",
 		"russian": "Возможность готовить еду на кухне.",
 		"spanish": "Puede preparar deliciosos platillos en la cocina.",
@@ -657,6 +672,7 @@
 	"skillTitle_bakeryCooking": {
 		"english": "Baking at Bakery",
 		"german": "Backen in der Bäckerei",
+		"turkish": "Fırında Pişirme",
 		"french": "Cuisiner à la boulangerie",
 		"russian": "Готовка в пекарне",
 		"spanish": "Cocción en la Panadería",
@@ -672,6 +688,7 @@
 	"skillDesc_bakeryCooking": {
 		"english": "Can use the bakery to make all kinds of baked goods.",
 		"german": "Kann in der Bäckerei allerlei Backwaren zubereiten.",
+		"turkish": "Her türlü unlu mamül yapmak için fırını kullanabilir.",
 		"french": "Peut utiliser la boulangerie pour fabriquer toutes sortes de produits de boulangerie.",
 		"russian": "Возможность готовить еду в пекарне",
 		"spanish": "Puede usar la panadería para preparar todo tipo de productos horneados.",
@@ -688,6 +705,7 @@
 	"skillTitle_animalCare": {
 		"english": "Animal Care",
 		"german": "Tierzucht",
+		"turkish": "Hayvan bakımı",
 		"french": "Soins aux animaux",
 		"russian": "Забота о животных",
 		"spanish": "Cuidado de Animales",
@@ -703,6 +721,7 @@
 	"skillDesc_animalCare": {
 		"english": "Can tame wild animals and care for them.",
 		"german": "Kann wilde Tiere zähmen und für sie sorgen.",
+		"turkish": "Vahşi hayvanları evcilleştirebilir ve onlara bakabilir.",
 		"french": "Peut apprivoiser des animaux sauvages et en prendre soin.",
 		"russian": "Возможность приручивать диких животных и ухаживать за ними.",
 		"spanish": "Puede domesticar animales salvajes y cuidarlos.",
@@ -718,6 +737,7 @@
 	"skillTitle_shearingSheep": {
 		"english": "Shearing Sheep",
 		"german": "Schafe scheren",
+		"turkish": "koyun kırkma",
 		"french": "Tonte des moutons",
 		"russian": "Стрижка овец",
 		"spanish": "Esquileo de Ovejas",
@@ -733,6 +753,7 @@
 	"skillDesc_shearingSheep": {
 		"english": "Can shear sheep to get wool.",
 		"german": "Kann Schafe scheren um Wolle zu bekommen.",
+		"turkish": "Yün elde etmek için koyunları kırkabilir",
 		"french": "Peut tondre les moutons pour obtenir de la laine.",
 		"russian": "Возможность стричь овец для получения шерсти.",
 		"spanish": "Puede esquilar ovejas para conseguir lana.",
@@ -748,6 +769,7 @@
 	"skillTitle_farmerMasterOutfit": {
 		"english": "Master Outfit",
 		"german": "Meisterkleidung",
+		"turkish": "Usta Çiftçi Kıyafet",
 		"french": "Équipement maître",
 		"russian": "Использование экипировки",
 		"spanish": "Traje de Maestro",
@@ -764,6 +786,7 @@
 	"skillDesc_farmerMasterOutfit": {
 		"english": "Can wear outfits meant for master farmers.",
 		"german": "Kann Kleidung für Meisterbauern tragen.",
+		"turkish": "Usta çiftçiler için tasarlanmış kıyafetler giyebilir.",
 		"french": "Peut porter un équipement destiné aux maîtres fermiers.",
 		"russian": "Возможность	носить экипировку, предназначенную для мастеров-фермеров",
 		"spanish": "Puede vestir trajes hechos para los maestros agricultores.",
@@ -782,6 +805,7 @@
 	"skillTitle_craftsmanBasics": {
 		"english": "Basics of Crafting",
 		"german": "Grundlagen des Handwerks",
+		"turkish": "Zanaatkarlığın Temelleri",
 		"french": "Bases de l'artisanat",
 		"russian": "Основы крафта",
 		"spanish": "Fundamentos de Artesanía",
@@ -797,6 +821,7 @@
 	"skillDesc_craftsmanBasics": {
 		"english": "Can tell a hammer from a nail.",
 		"german": "Kann einen Hammer von einem Nagel unterscheiden.",
+		"turkish": "Çividen çekici ayırt edebilir.",
 		"french": "On peut distinguer un marteau d'un clou.",
 		"russian": "Может отличить молоток от гвоздя",
 		"spanish": "Puede distinguir entre un martillo y un clavo",
@@ -813,6 +838,7 @@
 	"skillTitle_forging": {
 		"english": "Forging",
 		"german": "Schmieden",
+		"turkish": "demircilik",
 		"french": "Forgeage",
 		"russian": "Ковка",
 		"spanish": "Forja",
@@ -828,6 +854,7 @@
 	"skillDesc_forging": {
 		"english": "Can use the forge to make tools, weapons, and armor.",
 		"german": "Kann die Schmiede verwenden um Werkzeug, Waffen und Rüstung zu fertigen.",
+		"turkish": "Demirhaneyi alet, silah ve zırh yapmak için kullanabilir.",
 		"french": "Peut utiliser la forge pour fabriquer des outils, des armes et des armures.",
 		"russian": "Может использовать кузницу для изготовления инструментов, оружия и доспехов.",
 		"spanish": "Puede usar la forja para crear herramientas, armas y armaduras.",
@@ -843,6 +870,7 @@
 	"skillTitle_makingBows": {
 		"english": "Making Bows",
 		"german": "Bogenmachen",
+		"turkish": "Yay Yapmak",
 		"french": "Fabrication d'arcs",
 		"russian": "Изготовление луков",
 		"spanish": "Fabricación de Arcos",
@@ -858,6 +886,7 @@
 	"skillDesc_makingBows": {
 		"english": "Can make bows.",
 		"german": "Kann Bögen herstellen.",
+		"turkish": "Yay yapabilir.",
 		"french": "Peut fabriquer des arcs.",
 		"russian": "Возможность изготавливать луки.",
 		"spanish": "Puede fabricar arcos.",
@@ -873,6 +902,7 @@
 	"skillTitle_tailoring": {
 		"english": "Tailoring",
 		"german": "Schneidern",
+		"turkish": "terzilik",
 		"french": "Couture",
 		"russian": "Портняжное дело",
 		"spanish": "Sastrería",
@@ -888,6 +918,7 @@
 	"skillDesc_tailoring": {
 		"english": "Can use the tailor's workshop to make clothes and armor.",
 		"german": "Kann in der Schneiderei Kleidung und Rüstung herstellen.",
+		"turkish": "Giysi ve zırh yapmak için terzinin atölyesini kullanabilir.",
 		"french": "Peut utiliser l'atelier du tailleur pour fabriquer des vêtements et des armures.",
 		"russian": "Может использовать верстак портного для изготовления одежды и брони.",
 		"spanish": "Puede usar el taller de sastre para confeccionar ropas y armadura.",
@@ -903,6 +934,7 @@
 	"skillTitle_weaving": {
 		"english": "Weaving",
 		"german": "Weben",
+		"turkish": "dokumacılık",
 		"french": "Tissage",
 		"russian": "Ткачество",
 		"spanish": "Costura",
@@ -919,6 +951,7 @@
 	"skillTitle_tailoringMaster": {
 		"english": "Tailoring difficult cloth",
 		"german": "Schwere Stoffe schneidern",
+		"turkish": "Ağır kumaşların dikilmesi",
 		"french": "Coudre des vêtements complexes",
 		"russian": "Пошив сложной ткани",
 		"spanish": "Sastrería de tejidos difíciles",
@@ -934,6 +967,7 @@
 	"skillDesc_tailoringMaster": {
 		"english": "Some clothes require additional expertise to make.",
 		"german": "Manche Kleidung benötigt mehr Erfahrung zur Herstellung.",
+		"turkish": "Bazı giysiler yapmak için ek uzmanlık gerektirir.",
 		"french": "Certains vêtements nécessitent une expertise supplémentaire pour être confectionnés.",
 		"russian": "Некоторая одежда требует дополнительных навыков для изготовления",
 		"spanish": "Algunos vestidos requieren de una habilidad adicional para ser confeccionados",
@@ -949,6 +983,7 @@
 	"skillTitle_craftsmanMasterOutfit": {
 		"english": "Master Outfit",
 		"german": "Meisterkleidung",
+		"turkish": "Usta zanaatkarr Kıyafeti",
 		"french": "Équipement maître",
 		"russian": "Использование экипировки",
 		"spanish": "Traje de Maestro",
@@ -964,6 +999,7 @@
 	"skillDesc_craftsmanMasterOutfit": {
 		"english": "Can wear outfits meant for master craftsmen.",
 		"german": "Kann Kleidung für Meisterhandwerker tragen.",
+		"turkish": "Usta zanaatkarlar için tasarlanmış kıyafetler giyebilir.",
 		"french": "Peut porter un équipement destiné aux maîtres artisans.",
 		"russian": "Возможность	носить экипировку, предназначенную для мастеров-портных",
 		"spanish": "Puede vestir trajes hechos para maestros artesanos.",
@@ -983,6 +1019,7 @@
 	"skillTitle_doctorBasics": {
 		"english": "Basics of Medicine",
 		"german": "Grundlagen der Medizin",
+		"turkish": "Tıbbın Temelleri",
 		"french": "Bases de la médecine",
 		"russian": "Основы медицины",
 		"spanish": "Fundamentos de Medicina",
@@ -998,6 +1035,7 @@
 	"skillDesc_doctorBasics": {
 		"english": "Can tell medicine from poison (most times).",
 		"german": "Kann Medizin von Gift unterscheiden (meistens).",
+		"turkish": "İlacı zehirden ayırt edebilir (çoğu zaman).",
 		"french": "Peut distinguer un médicament d'un poison (la plupart du temps).",
 		"russian": "Может отличить ад от лекарства (в большинстве случаев).",
 		"spanish": "Puede distinguir la medicina del veneno (la mayoría de las veces).",
@@ -1013,6 +1051,7 @@
 	"skillTitle_fluTreatment": {
 		"english": "Flu Treatment",
 		"german": "Grippebehandlung",
+		"turkish": "Grip Tedavisi",
 		"french": "Traitement de la grippe",
 		"russian": "Лечение гриппа",
 		"spanish": "Tratamiento contra la gripe",
@@ -1028,6 +1067,7 @@
 	"skillDesc_fluTreatment": {
 		"english": "Can try simple treatments for the flu.",
 		"german": "Kann einfache Grippebehandlung durchführen.",
+		"turkish": "Grip için basit tedavileri deneyebilir.",
 		"french": "Peut essayer des traitements simples contre la grippe.",
 		"russian": "Может использовать базовые методы лечения гриппа.",
 		"spanish": "Puede probar tratamientos simples contra la gripe.",
@@ -1043,6 +1083,7 @@
 	"skillTitle_makingMedicalPotions": {
 		"english": "Medical Potions",
 		"german": "Medizinische Tränke",
+		"turkish": "Tıbbi İksirler",
 		"french": "Potions médicales",
 		"russian": "Лечебные зелья",
 		"spanish": "Pociones Médicas",
@@ -1058,6 +1099,7 @@
 	"skillDesc_makingMedicalPotions": {
 		"english": "Can make healing potions.",
 		"german": "Kann Heiltränke herstellen.",
+		"turkish": "Şifa iksirleri yapabilir.",
 		"french": "Peut faire des potions de guérison.",
 		"russian": "Может изготавливать лечебные зелья.",
 		"spanish": "Puede crear pociones curativas.",
@@ -1073,6 +1115,7 @@
 	"skillTitle_betterFluTreatments": {
 		"english": "Better Flu Treatment",
 		"german": "Meister der Grippebehandlung",
+		"turkish": "Daha İyi Grip Tedavisi",
 		"french": "Meilleur traitement de la grippe",
 		"russian": "Усовершенственное лечение гриппа",
 		"spanish": "Mejor tratamiento contra la gripe",
@@ -1088,6 +1131,7 @@
 	"skillDesc_betterFluTreatments": {
 		"english": "Flu treatments have a higher chance of succeeding.",
 		"german": "Grippebehandlungen haben eine höhere Erfolgswahrscheinlichkeit.",
+		"turkish": "Grip tedavilerinin başarı şansı daha yüksektir.",
 		"french": "Les traitements contre la grippe ont plus de chances de réussir.",
 		"russian": "Лечение гриппа теперь имеет большую вероятность на успех.",
 		"spanish": "Los tratamientos contra la gripe tienen mayor posibilidad de éxito.",
@@ -1103,6 +1147,7 @@
 	"skillTitle_applySplints": {
 		"english": "Applying Splints",
 		"german": "Schienen",
+		"turkish": "Basit atel tedavisi",
 		"french": "Mise en place d'attelles",
 		"russian": "Применение шин",
 		"spanish": "Aplicación de Tablillas",
@@ -1118,6 +1163,7 @@
 	"skillDesc_applySplints": {
 		"english": "Can apply splints to heal a hurt or broken limb.",
 		"german": "Kann Arme und Beine Schienen um eine Verletzung oder einen Bruch zu heilen.",
+		"turkish": "Yaralı veya kırık bir uzvunu iyileştirmek için atel uygulayabilir",
 		"french": "Peut appliquer des attelles pour soigner une blessure ou un membre cassé.",
 		"russian": "Возможность наносить шины, чтобы излечить поврежденную или сломанную конечность.",
 		"spanish": "Puede aplicar tablillas para curar una extremidad herida o rota",
@@ -1133,6 +1179,7 @@
 	"skillTitle_splintMaster": {
 		"english": "Splint Master",
 		"german": "Meister des Schienens",
+		"turkish": "atel ustası",
 		"french": "Maître des attelles",
 		"russian": "Усовершенственное нанесение шин",
 		"spanish": "Maestría de Entablillado",
@@ -1148,6 +1195,7 @@
 	"skillDesc_splintMaster": {
 		"english": "Has a lower probability for messing up splints.",
 		"german": "Hat eine kleinere Wahrscheinlichkeit Schienen zu vermasseln.",
+		"turkish": "Basitten daha iyi ve daha iyi olan uzuv yaralanmalarını ve kırıkları tedavi etmek için atelleri kullanabilirsiniz.",
 		"french": "A une probabilité plus faible de rater la mise en place d'attelles.",
 		"russian": "Меньшая вероятность испортить шины.",
 		"spanish": "Tiene una menor probabilidad de estropear el entablillado.",
@@ -1163,6 +1211,7 @@
 	"skillTitle_doctorMasterOutfit": {
 		"english": "Master Outfit",
 		"german": "Meisterkleidung",
+		"turkish": "Usta Doktor Kıyafeti",
 		"french": "Équipement maître",
 		"russian": "Использование экипировки",
 		"spanish": "Traje de Maestro",
@@ -1178,6 +1227,7 @@
 	"skillDesc_doctorMasterOutfit": {
 		"english": "Can wear outfits meant for master doctors.",
 		"german": "Kann Kleidung für Meisterärzte tragen.",
+		"turkish": "Usta doktorlar için tasarlanmış kıyafetler giyebilir.",
 		"french": "Peut porter un équipement destiné aux maîtres médecins.",
 		"russian": "Возможность	носить экипировку, предназначенную для мастеров-врачей",
 		"spanish": "Puede vestir trajes hechos para los maestros médicos.",
@@ -1196,6 +1246,7 @@
 	"skillTitle_scholarBasics": {
 		"english": "Academic fundamentalist",
 		"german": "Akademische Grundlagen",
+		"turkish": "Akademik temeller",
 		"french": "Fondamentaux académiques",
 		"russian": "Академические основы",
 		"spanish": "Fundamentos Académicos",
@@ -1211,6 +1262,7 @@
 	"skillDesc_scholarBasics": {
 		"english": "Has understood the basics of the scientific method.",
 		"german": "Hat die Grundlagen der wissenschaftlichen Methode verstanden.",
+		"turkish": "Bilimsel yöntemin temellerini anladı",
 		"french": "A compris les bases de la méthode scientifique.",
 		"russian": "Понимание основ науки.",
 		"spanish": "Ha comprendido lo básico del método científico.",
@@ -1226,6 +1278,7 @@
 	"skillTitle_researchScrolls": {
 		"english": "Research Scrolls",
 		"german": "Schriftrollen erforschen",
+		"turkish": "Araştırma Parşömenleri",
 		"french": "Parchemins de recherche",
 		"russian": "Исследование свитков",
 		"spanish": " Investigación de Pergaminos",
@@ -1241,6 +1294,7 @@
 	"skillDesc_researchScrolls": {
 		"english": "Can read ancient scrolls to gain some knowledge out of them.",
 		"german": "Kann alte Schriftrollen lesen um daraus Wissen zu erschließen.",
+		"turkish": "Onlardan biraz bilgi edinmek için eski parşömenleri okuyabilir.",
 		"french": "Peut lire des parchemins anciens pour en tirer des connaissances.",
 		"russian": "Может читать древние свитки и получать знания из них.",
 		"spanish": "Puede leer antiguos pergaminos para obtener algo de conocimiento de ellos.",
@@ -1256,6 +1310,7 @@
 	"skillTitle_teaching": {
 		"english": "Teaching",
 		"german": "Lehren",
+		"turkish": "öğretmek",
 		"french": "Enseignement",
 		"russian": "Обучение",
 		"spanish": "Enseñanza",
@@ -1271,6 +1326,7 @@
 	"skillDesc_teaching": {
 		"english": "Can teach children life skills. In person teaching is always quicker then letting children learn from books.",
 		"german": "Kann Kindern ausbilden. Persönliche Lehre ist immer schneller als Kinder von Büchern lernen zu lassen.",
+		"turkish": "Çocuklara yaşam becerilerini öğretebilir. Yüz yüze öğretmek her zaman çocukların kitaplardan öğrenmesine izin vermekten daha hızlıdır.",
 		"french": "Peut enseigner aux enfants les compétences de la vie courante. L'enseignement direct est toujours plus rapide que l'apprentissage par les livres.",
 		"russian": "Может обучать детей жизненным навыкам. Данный вид обучения быстрее, нежели самостоятельное прочтение книг.",
 		"spanish": "Puede enseñar a los niños habilidades para la vida. La enseñanza en persona siempre es más rápida que dejar que los niños aprendan de libros.",
@@ -1286,6 +1342,7 @@
 	"skillTitle_scholarMasterOutfit": {
 		"english": "Master Outfit",
 		"german": "Meisterkleidung",
+		"turkish": "Usta Bilimadamı Kıyafeti",
 		"french": "Équipement maître",
 		"russian": "Использование экипировки",
 		"spanish": "Traje de Maestro",
@@ -1301,6 +1358,7 @@
 	"skillDesc_scholarMasterOutfit": {
 		"english": "Can wear outfits meant for master scholars.",
 		"german": "Kann Kleidung für Meistergelehrte tragen.",
+		"turkish": "Usta bilim adamları için kıyafet giyebilir.",
 		"french": "Peut porter un équipement déstiné aux maîtres érudits.",
 		"russian": "Возможность	носить экипировку, предназначенную для мастеров-ученых",
 		"spanish": "Puede vestir trajes hechos para los maestros eruditos.",
@@ -1319,6 +1377,7 @@
 	"skillTitle_soldierBasics": {
 		"english": "Basics of Combat",
 		"german": "Grundlagen des Kampfes",
+		"turkish": "Savaşın Temelleri",
 		"french": "Bases du combat",
 		"russian": "Основы боя",
 		"spanish": "Fundamentos del Combate",
@@ -1335,6 +1394,7 @@
 	"skillDesc_soldierBasics": {
 		"english": "Knows to aim the pointy end of the stick at the enemy.",
 		"german": "Weiß, dass man das spitze Ende des Stocks richtung Feind hält.",
+		"turkish": "Sopanın sivri ucunu düşmana nişan almayı bilir.",
 		"french": "Sait comment diriger le bout pointu du bâton vers l'ennemi.",
 		"russian": "Знает как нацеливаться во врага.",
 		"spanish": "Sabe como apuntar la parte puntiaguda del palo al enemigo.",
@@ -1350,6 +1410,7 @@
 	"skillTitle_fightWoodenSwords": {
 		"english": "Wooden Swords",
 		"german": "Holzschwerter",
+		"turkish": "Tahta Kılıçlar",
 		"french": "Épées en bois",
 		"russian": "Деревянные мечи",
 		"spanish": "Espadas de Madera",
@@ -1365,6 +1426,7 @@
 	"skillDesc_fightWoodenSwords": {
 		"english": "Can fight with wooden swords.",
 		"german": "Kann mit Holzschwertern kämpfen.",
+		"turkish": "Tahta kılıçlarla savaşabilir.",
 		"french": "Peut combattre avec des épées en bois.",
 		"russian": "Может использовать деревянные мечи.",
 		"spanish": "Puede pelear con espadas de madera.",
@@ -1380,6 +1442,7 @@
 	"skillTitle_fightStoneSwords": {
 		"english": "Stone Swords",
 		"german": "Steinschwerter",
+		"turkish": "Taş Kılıç",
 		"french": "Épées de pierre",
 		"russian": "Каменные мечи",
 		"spanish": "Espadas de Piedra",
@@ -1395,6 +1458,7 @@
 	"skillDesc_fightStoneSwords": {
 		"english": "Can fight with stone swords.",
 		"german": "Kann mit Steinschwertern kämpfen.",
+		"turkish": "Taş kılıçlarla savaşabilir.",
 		"french": "Peut combattre avec des épées de pierre.",
 		"russian": "Может использовать каменные мечи.",
 		"spanish": "Puede pelear con espadas de piedra.",
@@ -1410,6 +1474,7 @@
 	"skillTitle_fightMetalSwords": {
 		"english": "Metal Swords",
 		"german": "Metallschwerter",
+		"turkish": "Metal Kılıç",
 		"french": "Épées en métal",
 		"russian": "Металлические мечи",
 		"spanish": "Espadas de Metal",
@@ -1425,6 +1490,7 @@
 	"skillDesc_fightMetalSwords": {
 		"english": "Can fight with metal swords.",
 		"german": "Kann mit Metallschwertern kämpfen.",
+		"turkish": "Metal kılıçlarla savaşabilir.",
 		"french": "Peut combattre avec des épées en métal.",
 		"russian": "Может использовать металлические мечи.",
 		"spanish": "Puede pelear con espadas de metal.",
@@ -1440,6 +1506,7 @@
 	"skillTitle_fightBow": {
 		"english": "Archery",
 		"german": "Bogenschießen",
+		"turkish": "Okçuluk",
 		"french": "Tir à l'arc",
 		"russian": "Стрельба из лука",
 		"spanish": "Tiro al Arco",
@@ -1455,6 +1522,7 @@
 	"skillDesc_fightBow": {
 		"english": "Can use ranged weapons to hurt the enemy from afar.",
 		"german": "Kann Distanzwaffen verwenden um den Gegener aus der Weite zu verletzen.",
+		"turkish": "Düşmana uzaktan zarar vermek için menzilli silahları kullanabilir.",
 		"french": "Peut utiliser des armes à distance pour blesser l'ennemi de loin.",
 		"russian": "Можно использовать оружие дальнего боя, чтобы издалека атаковать врага.",
 		"spanish": "Puede usar armas a distancia para herir al enemigo desde lejos.",
@@ -1470,6 +1538,7 @@
 	"skillTitle_martialArts": {
 		"english": "Martial Arts",
 		"german": "Kampfkunst",
+		"turkish": "Dövüş sanatları",
 		"french": "Arts martiaux",
 		"russian": "Боевые искусства",
 		"spanish": "Artes Marciales",
@@ -1485,6 +1554,7 @@
 	"skillDesc_martialArts": {
 		"english": "Can deal extra damage when unarmed.",
 		"german": "Kann zusätzlichen Schaden anrichten wenn unbewaffnet.",
+		"turkish": "Silahsızken ekstra hasar verebilir.",
 		"french": "Peut causer des dégâts supplémentaires lorsqu'il n'est pas armé.",
 		"russian": "Может наносить дополнительный урон, когда не вооружен.",
 		"spanish": "Puede causar daño extra al estar desarmado.",
@@ -1500,6 +1570,7 @@
 	"skillTitle_sneaking": {
 		"english": "Sneaking",
 		"german": "Schleichen",
+		"turkish": "Gizlilik",
 		"french": "Discrétion",
 		"russian": "Ниндзя",
 		"spanish": "Sigilo",
@@ -1515,6 +1586,7 @@
 	"skillDesc_sneaking": {
 		"english": "Can walk around enemy camps without waking anyone.",
 		"german": "Kann durch feindliche Lager spazieren ohne jemanden zu wecken.",
+		"turkish": "Düşman kamplarında kimseyi uyandırmadan dolaşabilir.",
 		"french": "Peut se promener autour des camps ennemis sans réveiller personne.",
 		"russian": "Может ходить по вражеским лагерям, не будя никого.",
 		"spanish": "Puede pasearse por los campos enemigos sin despertar a nadie.",
@@ -1530,6 +1602,7 @@
 	"skillTitle_mediumArmor": {
 		"english": "Medium Armor",
 		"german": "Mittlere Rüstung",
+		"turkish": "Orta Zırh",
 		"french": "Armure moyenne",
 		"russian": "Средняя броня",
 		"spanish": "Armadura Media",
@@ -1547,6 +1620,7 @@
 	"skillDesc_mediumArmor": {
 		"english": "Can wear medium armor.",
 		"german": "Kann mittlere Rüstung tragen.",
+		"turkish": "Orta zırh giyebilir.",
 		"french": "Peut porter une armure moyenne.",
 		"russian": "Может носить среднюю броню",
 		"spanish": "Puede vestir una armadura media.",
@@ -1562,6 +1636,7 @@
 	"skillTitle_heavyArmor": {
 		"english": "Heavy Armor",
 		"german": "Schwere Rüstung",
+		"turkish": "Ağır Zırh",
 		"french": "Armure lourde",
 		"russian": "Тяжелая броня",
 		"spanish": "Armadura Pesada",
@@ -1577,6 +1652,7 @@
 	"skillDesc_heavyArmor": {
 		"english": "Can wear heavy armor.",
 		"german": "Kann schwere Rüstung tragen.",
+		"turkish": "Ağır zırh giyebilir.",
 		"french": "Peut porter une armure lourde.",
 		"russian": "Может носить тяжелую броню",
 		"spanish": "Puede vestir una armadura pesada.",
