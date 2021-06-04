@@ -281,7 +281,7 @@
 	},
 	"equipmentDescription_pickaxeWood": {
 		"english": "Gets 50% more resources out of mining. Someone said kicking wasn't that healthy.",
-		"dutch":  "Krijgt 50% meer matrialen uit of mijnbouw. Iemand zei schoppen is niet gezond.",
+		"dutch":  "Haal 50% meer grondstoffen uit de mijnbouw. Iemand zei dat schoppen niet zo gezond was.",
 		"german": "Erhält 50% mehr Ressourcen aus Bergarbeit. Jemand meinte, das Treten von Steinen sei nicht so gesund.",
 		"french": "Fournit 50% de ressources minières en plus. Quelqu'un a dit que donner des coups de pied n'était pas recommandé.",
 		"spanish": "Obtiene un 50% más recursos del minado. Alguien dijo que dar patadas no era tan saludable.",
@@ -317,7 +317,7 @@
 	},
 	"equipmentDescription_pickaxeStone": {
 		"english": "Gets double the amount of resources out of mining. What are you going to do with all this stone and iron?",
-		"dutch":  "Krijgt dubbel het aantal of matriaal uit mijnbouw. Wat ga je doen met al deze stenen en ijzer?",
+		"dutch":  "Haal het dubbele aan grondstoffen uit de mijnbouw. Wat ga je doen met al die steen en ijzer?",
 		"german": "Erhält den doppelten Betrag an Ressourcen aus Bergarbeit. Was wirst du mit all dem Stein und Eisen machen?",
 		"french": "Fournit le double de la quantité de ressources minières. Qu'allez-vous faire avec toute cette pierre et tout ce fer ?",
 		"spanish": "Obtiene el doble de la cantidad de recursos del minado. ¿Qué vas a hacer con toda esta piedra y hierro?",
@@ -634,7 +634,7 @@
 	},
 	"equipmentDescription_armorIron": {
 		"english": "Takes a long time to be produced, but protects the bearer pretty well.",
-		"dutch":  "Neemt lange tijd om te maken, maar bescermd de drager heel goed.",
+		"dutch":  "Neemt een lange tijd om te maken, maar beschermd de drager heel goed.",
 		"german": "Braucht lange in der Herstellung, aber schützt den Träger ziemlich gut.",
 		"french": "Prend du temps à être fabriquer, mais protège assez bien le porteur.",
 		"spanish": "Su producción es lenta, pero protege adecuadamente a quien la lleva",
@@ -776,6 +776,7 @@
 	"equipmentDescription_armorTikiMedium": {
 		"english": "While this wooden armor makes rattling noises, it is very light and offers acceptable protection.",
 		"german": "Zwar klappert diese Holzrüstung etwas beim Gehen, doch ist sie leicht und bietet akzeptablen Schutz.",
+		"turkish": "Bu ahşap zırh çok hafiftir ve kabul edilebilir bir savunması vardır.",
 		"french": "Bien que cette armure en bois fasse des bruits de cliquetis, elle est très légère et offre une protection acceptable.",
 		"spanish": "Aunque esta armadura de madera haga traqueteos, es muy ligera y ofrece una protección aceptable.",
 		"portuguese": "Enquanto esta armadura de madeira faz ruídos de chocalho, é muito leve e oferece proteção aceitável.",
@@ -1329,6 +1330,7 @@
 	"equipmentDescription_cutlassSailor": {
 		"english": "Because of water induced rust, this cutlass is not very sharp. Its rugged edges are still dangerous though.",
 		"german": "Aufgrund des häufigen Kontakts mit Wasser macht der Rost diesen Säbel nicht besonders scharf.",
+		"turkish": "Suyun neden olduğu pas nedeniyle bu Pala çok keskin değildir. Bununla birlikte, pürüzlü kenarları hala tehlikelidir.",
 		"spanish": "Debido al óxido casuado por el agua, este sable no es muy afilado. Aun así, sus bordes rugosos siguen siendo peligrosos.",
 		"dutch":  "Door roest, veroorzaakt door water, is deze zwaard niet erg scherp. Zijn ruwe randen zijn echter nog steeds gevaarlijk.",
 		"french": "En raison de la rouille induite par l'eau, ce sabre n'est pas très tranchant. Ses bords robustes sont cependant encore dangereux.",
@@ -1362,6 +1364,7 @@
 	"equipmentDescription_cutlassCaptain": {
 		"english": "This heavy cutlass has seen a bunch of fights and a lot of salt water, but its hardened blade is still worthy of a captain.",
 		"german": "Dieser schwere Säbel hat einige Schlachten und viel Salzwasser gesehen, aber seine gehärtete Klinge ist immer noch eines Kapitäns wert.",
+		"turkish": "Bu ağır pala bir sürü kavga ve bolca tuzlu su gördü, ancak sertleştirilmiş bıçağı hala bir kaptana layık.",
 		"spanish": "Ese sable pesado ha visto un montón de peleas y agua salada, pero su endurecida hoja es aún digna de un capitán.",
 		"dutch":  "Dit zware zwaard heeft veel gevechten en veel zout water gezien, maar zijn geharde lemmet is nog steeds een kapitein waardig",
 		"french": "Ce sabre lourd a connu de nombreux combats et beaucoup d'eau salée, mais sa lame affûtée est toujours digne d'un capitaine.",
@@ -1395,6 +1398,7 @@
 	"equipmentDescription_pirateSailorGear0": {
 		"english": "Pieced together from all kinds of fabrics, these clothes don't really protect as much from the sea as you might expect.",
 		"german": "Zusammengenäht aus allen möglichen Stoffen. Bieten nicht so viel Schutz vor dem Wetter auf hoher See wie man erwarten würde.",
+		"turkish": "Her türlü kumaştan bir araya getirilen bu giysiler, beklediğiniz kadar denizden koruma sağlamaz.",
 		"spanish": "Reconstruidas de distintos tipos de tela, estas ropas realmente no protegen tanto del mar como podrías esperar.",
 		"dutch":  "Deze kleren, die uit allerlei stoffen zijn samengesteld, beschermen niet zo goed tegen de zee als je zou verwachten.",
 		"french": "Assemblés à partir de toutes sortes de tissus, ces vêtements ne protègent pas vraiment autant de la mer qu'on pourrait s'y attendre.",
@@ -1428,6 +1432,7 @@
 	"equipmentDescription_pirateCaptainGear0": {
 		"english": "Impressive and badass, this suit probably belonged to an admiral before he met his untimely end.",
 		"german": "Dieser eindurcksvolle und mächtige Anzug hat vermutlich einmal einem Admiral gehört, bevor er ein vorzeitiges Ende fand.",
+		"turkish": "Etkileyici ve çetin ceviz olan bu takım, muhtemelen zamansız sonla karşılaşmadan önce bir amiral'e aitti.",
 		"spanish": "Impresionantes y rudo, este traje probablemente pertenecía a un almirante antes de conocer su fin.",
 		"dutch":  "Indrukwekkend en stoer, dit pak behoorde waarschijnlijk toe aan een admiraal voor hij aan zijn einde kwam.",
 		"french": "Impressionnant et badass, ce costume appartenait probablement à un amiral avant qu'il ne rencontre sa fin prématurée.",

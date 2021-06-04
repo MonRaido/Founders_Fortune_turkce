@@ -1,4 +1,4 @@
-{
+﻿{
 	"xUnitsOfResource": { // For example "+1 wood": The "+1" is %amount% and "wood" is %resource%
 		"english": "%amount% %resource%",
 		"german": "%amount% %resource%",
@@ -24,7 +24,7 @@
 		"spanish": "Comida cruda",
 		"turkish": "Çiğ yemek",
 		"portuguese": "Comida crua",
-		"dutch": "Rauw Eten",
+		"dutch": "Rauw voedsel",
 		"russian": "Сырая пища",
 		"ukrainian":"Cира їжа",
 		"chinese": "生食",
@@ -78,7 +78,7 @@
 		"spanish": "Manzana",
 		"turkish": "Elma",
 		"portuguese": "Maçã",
-		"dutch": "Appel",
+		"dutch": "Appels",
 		"russian": "Яблоко",
 		"ukrainian":"Яблуко",
 		"chinese": "苹果",
@@ -272,6 +272,7 @@
 	"resourceName_RawMeat": {
 		"english": "Raw Meat",
 		"german": "Rohes Fleisch",
+		"turkish": "Çiğ et",
 		"french": "Viande crue",
 		"spanish": "Carne cruda",
 		"dutch": "Rauw vlees",
@@ -286,6 +287,7 @@
 	"resourceName_Milk": {
 		"english": "Milk",
 		"german": "Milch",
+		"turkish": "Süt",
 		"french": "Lait",
 		"spanish": "Leche",
 		"dutch": "Melk",
@@ -339,7 +341,7 @@
 		"spanish": "Comida cruda comestible",
 		"turkish": "Çiğ yemek",
 		"portuguese": "Comida crua",
-		"dutch": "Rauw Eten",
+		"dutch": "Rauw voedsel",
 		"russian": "Сырая пища",
 		"ukrainian":"Сира їжа",
 		"chinese": "生食",
@@ -512,6 +514,7 @@
 	"resourceName_GrilledMeat": {
 		"english": "Grilled Meat",
 		"german": "Gegrilltes Fleisch",
+		"turkish": "Izgara et",
 		"french": "Viande grillée",
 		"spanish": "Carne asada",
 		"dutch": "Gegrild vlees",
@@ -596,6 +599,7 @@
 	"resourceName_MeatAndPotatoes": {
 		"english": "Meat and Potatoes",
 		"german": "Fleisch und Kartoffeln",
+		"turkish": "Et ve patates",
 		"french": "Viande et pommes de terre",
 		"spanish": "Carne y patatas",
 		"dutch": "Vlees en aardappelen",
@@ -645,6 +649,7 @@
 	"resourceName_Cheese": {
 		"english": "Cheese",
 		"german": "Käse",
+		"turkish": "Peynir",
 		"french": "Fromage",
 		"spanish": "Queso",
 		"dutch": "Kaas",
@@ -722,7 +727,7 @@
 		"spanish": "El sabor de la primavera - o al menos, lo más cercano posible. Levantará el ánimo de cada colono",
 		"turkish": "İlkbaharın lezzeti - en azından olabildiğince.",
 		"portuguese": "O sabor da primavera - ou pelo menos o mais perto possível. Levanta o humor de todos os aldeões.",
-		"dutch": "De smaak van lente - of tenminste zo dichtbij als het kan komen",
+		"dutch": "De smaak van lente - of tenminste zo dichtbij als het kan komen. Brengt de stemming van elke dorpeling omhoog.",
 		"russian": "Вкус весны - или, по крайней мере, настолько близкий, насколько это возможно.",
 		"ukrainian":"Смак весни - або, принаймні, настільки близький, наскільки це можливо.",
 		"chinese": "春天的味道 - 或者至少是最接近春天的味道.",
@@ -792,7 +797,7 @@
 		"spanish": "Para producir herramientas más avanzadas, armas y armadura, primero tienes que encontrar mineral de hierro y picarlo.",
 		"turkish": "Daha gelişmiş aletler, silahlar ve zırhlar üretmek için demir cevheri bulmanız ve çıkarmanız gerekiyor.",
 		"portuguese": "Para produzir ferramentas mais avançadas, armas e armaduras, você precisa encontrar e extrair minério de ferro.",
-		"dutch": "Voor het produceren van geavanceerdere gereedschappen, wapens en wapenrustingen, moet je ijzer erts vinden en delven.",
+		"dutch": "Om geavanceerdere gereedschappen, wapens en harnassen te maken, moet je ijzererts vinden en delven.",
 		"russian": "Чтобы производить улучшенные инструменты, оружие и доспехи, вам нужно найти и добыть железную руду.",
 		"ukrainian":"Щоб виробляти поліпшені інструменти, зброю і обладунки, вам потрібно знайти і добути залізну руду.",
 		"chinese": "为了生产更先进的工具、武器和盔甲,你需要找到并开采铁矿石.",
@@ -827,7 +832,7 @@
 		"spanish": "Siempre que quieras construir algo duradero e ignífugo, deberías elegir piedra por encima de la madera.",
 		"turkish": "Dayanıklı ve yangına dayanıklı bir şey inşa etmek istediğinizde, ahşap üzerine taş tercih etmelisiniz.",
 		"portuguese": "Sempre que você quiser construir algo durável e à prova de fogo, você deve preferir pedra em vez de madeira.",
-		"dutch": "Op momenten dat je iets stevigs en vuurvasts wil bouwen, moet je steen verkiezen boven hout.",
+		"dutch": "Wanneer je iets duurzaams en vuurbestendig wilt bouwen, moet je steen verkiezen boven hout.",
 		"russian": "Каждый раз, когда вы захотите построить что-то прочное и пожаростойкое, предпочтите камень дереву.",
 		"ukrainian":"Кожен раз, коли ви захочете побудувати щось міцне і пожежостійкість, віддайте перевагу камінь дереву.",
 		"chinese": "任何时候,如果你想建造耐用、防火的建筑,你都应该选择石头而不是木头.",
@@ -968,7 +973,7 @@
 		"spanish": "Tus colonos pueden sufrir varias enfermedades. Esta medicina puede tratar la gran mayoría.",
 		"turkish": "Yerleşimcilerinizin kapabileceği çeşitli hastalıklar var. Bu ilaç çoğunu tedavi ediyor.",
 		"portuguese": "Existem várias doenças que seus colonos podem ter. Este medicamento trata a maioria deles.",
-		"dutch": "Er zijn veel ziektes die je kolonisten kunnen krijgen. Dit medicijn behandeld de meesten.",
+		"dutch": "Er zijn veel ziektes die je kolonisten kunnen krijgen. Dit medicijn behandelt de meeste daarvan.",
 		"russian": "Существуют различные болезни, которые могут получить ваши колонисты. Это лекарство лечит большинство из них.",
 		"ukrainian":"Існують різні хвороби, які можуть отримати ваші колоністи. Ці ліки лікують більшість з них.",
 		"chinese": "你的殖民者可能会染上各种各样的疾病.该药能治疗大部分的疾病.",
@@ -1016,6 +1021,7 @@
 	"resourceName_Textiles": {
 		"english": "Textiles",
 		"german": "Textilien",
+		"turkish": "Tekstil",
 		"french": "Textile",
 		"spanish": "Textiles",
 		"dutch": "Textiel",
@@ -1030,6 +1036,7 @@
 	"resourceDescription_Textiles": {
 		"english": "The Villagers can use cotton or wool to produce cloth for furniture and clothes.",
 		"german":  "Aus Baumwolle oder Schafswolle können die Dörfler Stoff herstellen.",
+		"turkish": "Köylüler, mobilya ve giysi için kumaş üretmek için pamuk veya yün kullanabilirler.",
 		"french": "Les villageois peuvent utiliser du coton ou de la laine pour produire des tissus pour les meubles et les vêtements.",
 		"spanish": "Los colonos pueden usar algodón y lana para producir telas para muebles y ropa.",
 		"dutch": "De dorpelingen kunnen met behulp van katoen of wol stoffen voor meubels en kleding produceren.",
@@ -1080,6 +1087,7 @@
 	"resourceName_Wool": {
 		"english": "Wool",
 		"german": "Wolle",
+		"turkish": "Yün",
 		"french": "Laine",
 		"spanish": "Lana",
 		"dutch": "Wol",
@@ -1094,6 +1102,7 @@
 	"resourceName_Cloth": {
 		"english": "Cloth",
 		"german": "Stoff",
+		"turkish": "Kumaş",
 		"french": "Tissu",
 		"spanish": "Tela",
 		"dutch": "Stof",
@@ -1266,6 +1275,7 @@
 	"resourceName_ElixirOfYouth": {
 		"english": "Elixir of Youth",
 		"german": "Elixier der Jugend",
+		"turkish": "Gençlik İksiri",
 		"french": "Élixir de jeunesse",
 		"spanish": "Elixir de la Juventud",
 		"dutch": "Elixir van de jeugd",
@@ -1280,6 +1290,7 @@
 	"resourceDescription_ElixirOfYouth": {
 		"english": "Most scholars have doubted is existence for the longest time, but recently more and more stories about it have surfaced. The elixir apparently gives youth, but you'll have to pay for it one way or the other.",
 		"german": "Die meisten Gelehrten haben an seiner Existenz lange gezweifelt, aber in letzter Zeit tauchten mehr und mehr Geschichten darüber auf. Das Elixir kann anscheinend den Trinkenden verjüngen - allerdings für einen Preis..",
+		"turkish": "Çoğu bilim adamı, uzun süredir var olduğundan şüphe ediyor, ancak son zamanlarda bununla ilgili daha fazla hikaye ortaya çıktı. İksir görünüşe göre gençlik veriyor, ama öyle ya da böyle bunun için ödeme yapmanız gerekecek.",
 		"french": "La plupart des érudits ont douté de son existence pendant longtemps, mais récemment, de plus en plus d'histoires à ce sujet ont fait surface. L'élixir donne apparemment de la jeunesse, mais il faut payer d'une manière ou d'une autre.",
 		"spanish": "La mayoría de los eruditos han dudado de su existencia por un largo tiempo, pero recientemente más y más historias han emergido sobre él. El elixir aparentemente otorga juventud, pero debe pagarse un precio de una forma u otra.",
 		"dutch": "De meeste geleerden hebben het langst getwijfeld aan het bestaan ervan, maar de laatste tijd duiken er steeds meer verhalen over op. Het elixer geeft blijkbaar jeugd, maar je zult er op een of andere manier voor moeten betalen.",

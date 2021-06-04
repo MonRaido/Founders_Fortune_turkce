@@ -2,6 +2,7 @@
 	"fullName": {
 		"english": "%firstName% %lastName%",
 		"german": "%firstName% %lastName%",
+		"turkish": "%firstName% %lastName%",
 		"french": "%firstName% %lastName%",
 		"portuguese": "%firstName% %lastName%",
 		"spanish": "%firstName% %lastName%",
@@ -17,6 +18,7 @@
 	"customNameSheep": { // you can use gendered expressions here if you add it to the genderDictionary
 		"english": "%name% the Sheep",
 		"german": "%name% das Schaf",
+		"turkish": "%name% bir koyun",
 		"french": "%name% le mouton",
 		"spanish": "%name% la Oveja",
 		"dutch": "%name% het schaap",
@@ -32,6 +34,7 @@
 	"customNameCow": {
 		"english": "%name% the Cow",
 		"german": "%name% die Kuh",
+		"turkish": "%name% bir inek",
 		"french": "%name% la vache",
 		"spanish": "%name% la Vaca",
 		"dutch": "%name% de koe",
@@ -47,6 +50,7 @@
 	"customNamePig": {
 		"english": "%name% the Pig",
 		"german": "%name% das Schwein",
+		"turkish": "%name% bir Domuz",
 		"french": "%name% le cochon",
 		"spanish": "%name% el Cerdo",
 		"dutch": "%name% het varken",
@@ -66,6 +70,7 @@
 	"animal_sheep":  {
 		"english": "Sheep",
 		"german": "Schaf",
+		"turkish": "Koyun",
 		"french": "Mouton",
 		"spanish": "Oveja",
 		"dutch": "Schaap",
@@ -81,6 +86,7 @@
 	"animal_sheep_Plural":  { // in some languages plural and singular are the same
 		"english": "Sheep",
 		"german": "Schafe",
+		"turkish": "Koyunlar",
 		"french": "Moutons",
 		"spanish": "Ovejas",
 		"dutch": "Schapen",
@@ -96,6 +102,7 @@
 	"animalDesc_sheep":  {
 		"english": "Sheep are good alrounders to keep your economy going. They can provide you with wool, but only a small amount of meat.",
 		"german": "Schafe sind gute Allzwecktiere. Sie können dein Dorf mit Wolle und einer kleinen Menge Fleisch versorgen.",
+		"turkish": "Koyunlar, ekonominizi devam ettirmek için iyi çevrecilerdir. Size yün sağlayabilirler, ancak sadece az miktarda et.",
 		"french": "Les moutons sont de bons alliés pour faire tourner l'économie. Ils peuvent vous fournir de la laine, mais seulement une petite quantité de viande.",
 		"spanish": "Las ovejas son buenas amigas para mantener la economía funcionando. Pueden proveerte de lana, pero solo una pequeña cantidad de carne.",
 		"dutch": "Schapen zijn goede allrounders om je economie draaiende te houden. Ze kunnen je voorzien van wol, maar slechts een kleine hoeveelheid vlees.",
@@ -110,6 +117,7 @@
 	"animal_cow":  {
 		"english": "Cow",
 		"german": "Kuh",
+		"turkish": "İnek",
 		"french": "Vache",
 		"spanish": "Vaca",
 		"dutch": "Koe",
@@ -125,6 +133,7 @@
 	"animal_cow_Plural":  {
 		"english": "Cows",
 		"german": "Kuh",
+		"turkish": "İnekler",
 		"french": "Vaches",
 		"spanish": "Vacas",
 		"dutch": "Koeien",
@@ -140,6 +149,7 @@
 	"animalDesc_cow":  {
 		"english": "Cows are more difficult to tame and they take longer to grow up. But it's worth it: They can provide you with milk and a large amount of meat.",
 		"german": "Kühe sind scher zu zähmen und benötigen mehr Zeit um aufzuwachsen. Aber es lohnt sich: Sie versorgen dein Dorf mit Milch und einer großen Menge Fleisch.",
+		"turkish": "İnekleri evcilleştirmek daha zordur ve büyümeleri daha uzun sürer. Ama buna değer: Size süt ve bol miktarda et sağlayabilirler.",
 		"french": "Les vaches sont plus difficiles à apprivoiser et mettent plus de temps à grandir. Mais cela en vaut la peine : elles peuvent vous fournir du lait et une grande quantité de viande.",
 		"spanish": "Las vacas son más difíciles de domesticar y les toma más tiempo crecer. Pero vale la pena: Pueden proveerte de leche y una gran cantidad de carne.",
 		"dutch": "Koeien zijn moeilijker te temmen en het duurt langer voor ze volwassen zijn. Maar het is de moeite waard: Ze kunnen u voorzien van melk en een grote hoeveelheid vlees.",
@@ -154,6 +164,7 @@
 	"animal_pig":  {
 		"english": "Pig",
 		"german": "Schwein",
+		"turkish": "Domuz",
 		"french": "Cochon",
 		"spanish": "Cerdo",
 		"dutch": "Varken",
@@ -169,6 +180,7 @@
 	"animal_pig_Plural":  {
 		"english": "Pigs",
 		"german": "Schwein",
+		"turkish": "Domuzlar",
 		"french": "Cochons",
 		"spanish": "Cerdos",
 		"dutch": "Varkens",
@@ -184,6 +196,7 @@
 	"animalDesc_pig":  {
 		"english": "Pigs grow up quickly and provide you with a large amount of meat. The ultimate solution to keep your villagers fed!",
 		"german": "Schweine werden schnell erwachsen und bringen eine große Menge Fleisch ein. Die ultimative Lösung um deine Nahrungsversorgung sicherzustellen!",
+		"turkish": "Domuzlar hızla büyür ve size bol miktarda et sağlar. Köylülerinizi doyurmak için nihai çözüm!",
 		"french": "Les cochons grandissent rapidement et vous fournissent une grande quantité de viande. La solution ultime pour nourrir vos villageois !",
 		"spanish": "Los cerdos crecen con rapidez y proveen una gran cantidad de carne. ¡La solución definitiva para mantener a tus aldeanos alimentados!",
 		"dutch": "Varkens groeien snel en voorzien je van een grote hoeveelheid vlees. De ultieme oplossing om je dorpelingen te voeden!",
@@ -4761,6 +4774,7 @@
 	"goblinFactionName_1": {
 		"english": "The First People of the Earth",
 		"german": "Das erste Volk der Erde",
+		"turkish": "Dünyanın İlk İnsanları",
 		"french": "Le Premier Peuple de la Terre",
 		"portuguese": "O primeiro povo da terra",
 		"spanish": "El Primer Pueblo de la Tierra",
@@ -4776,6 +4790,7 @@
 	"goblinFactionName_2": {
 		"english": "The First Islanders",
 		"german": "Die ersten Inselbewohner",
+		"turkish": "İlk Adalılar",
 		"french": "Les Premiers Insulaires",
 		"portuguese": "Os primeiros insulares",
 		"spanish": "Los Primeros Isleños",
@@ -4791,6 +4806,7 @@
 	"goblinFactionName_3": {
 		"english": "The First Tribe",
 		"german": "Der erste Stamm",
+		"turkish": "İlk Kabile",
 		"french": "La Première Tribu",
 		"portuguese": "A primeira tribo",
 		"spanish": "La Primera Tribu",
@@ -4806,6 +4822,7 @@
 	"goblinFactionName_4": {
 		"english": "The Quick Runners",
 		"german": "Die schnellen Läufer",
+		"turkish": "Hızlı Koşucular",
 		"french": "Les Coureurs Rapides",
 		"portuguese": "Os corredores rápidos",
 		"spanish": "Los Corredores Rápidos",
@@ -4821,6 +4838,7 @@
 	"goblinFactionName_5": {
 		"english": "The Fat Family",
 		"german": "Die dicken Denker",
+		"turkish": "Şişman Aile",
 		"french": "La Grosse Famille",
 		"portuguese": "A família gorda",
 		"spanish": "La Familia Gorda",
@@ -4836,6 +4854,7 @@
 	"goblinFactionName_6": {
 		"english": "The Hungry Warriors",
 		"german": "Die hungrigen Krieger",
+		"turkish": "Aç Savaşçılar",
 		"french": "Les Guerriers Affamés",
 		"portuguese": "Os guerreiros famintos",
 		"spanish": "Los Guerreros Hambrientos",
@@ -4851,6 +4870,7 @@
 	"goblinFactionName_7": {
 		"english": "The People of the Forest",
 		"german": "Das Volk des Waldes",
+		"turkish": "Orman İnsanları",
 		"french": "Le Peuple de la Forêt",
 		"portuguese": "O povo da floresta",
 		"spanish": "El Pueblo del Bosque",
@@ -4866,6 +4886,7 @@
 	"goblinFactionName_8": {
 		"english": "The People of the Sea",
 		"german": "Das Volk des Meeres",
+		"turkish": "Deniz İnsanları",
 		"french": "Le Peuple de la Mer",
 		"portuguese": "O povo do mar",
 		"spanish": "El Pueblo del Mar",
@@ -4881,6 +4902,7 @@
 	"goblinFactionName_9": {
 		"english": "The Warriors of the North",
 		"german": "Die Krieger des Nordens",
+		"turkish": "Kuzeyin Savaşçıları",
 		"french": "Les Guerriers du Nord",
 		"portuguese": "Os guerreiros do norte",
 		"spanish": "Los Guerreros del Norte",
@@ -4896,6 +4918,7 @@
 	"goblinFactionName_10": {
 		"english": "The Village of Happiness",
 		"german": "Die Dorf der Zufriedenheit",
+		"turkish": "Mutluluk Köyü",
 		"french": "Le Village du Bonheur",
 		"portuguese": "A Vila da Felicidade",
 		"spanish": "La Aldea de la Felicidad",
@@ -4911,6 +4934,7 @@
 	"goblinFactionName_11": {
 		"english": "The Proud People of the Sun",
 		"german": "Das stolze Volk der Sonne",
+		"turkish": "Güneşin Gururlu İnsanları",
 		"french": "Le Fier Peuple du Soleil",
 		"portuguese": "As pessoas orgulhosas do sol",
 		"spanish": "La Gente Orgullosa del Sol",
@@ -4926,6 +4950,7 @@
 	"goblinFactionName_12": {
 		"english": "The Mysterious People of the Moon",
 		"german": "Das mysteriöse Volk des Mondes",
+		"turkish": "Ayın Gizemli İnsanları",
 		"french": "Le Peuple Mystérieux de la Lune",
 		"portuguese": "O misterioso povo da lua",
 		"spanish": "La Gente Misteriosa de la Luna",
@@ -4941,6 +4966,7 @@
 	"goblinFactionName_13": {
 		"english": "The Children of Nature",
 		"german": "Die Kinder der Natur",
+		"turkish": "Doğanın Çocukları",
 		"french": "Les Enfants de la Nature",
 		"portuguese": "Os Filhos da Natureza",
 		"spanish": "Los Hijos de la Naturaleza",
@@ -4956,6 +4982,7 @@
 	"goblinFactionName_14": {
 		"english": "The Courageous Warriors",
 		"german": "Die tapferen Krieger",
+		"turkish": "Cesur Savaşçılar",
 		"french": "Les Courageux Guerriers",
 		"portuguese": "Os guerreiros corajosos",
 		"spanish": "Los Guerreros Valientes",
@@ -4971,6 +4998,7 @@
 	"goblinFactionName_15": {
 		"english": "The Brave Tribe",
 		"german": "Der mutige Stamm",
+		"turkish": "Cesur Kabile",
 		"french": "La Tribu Brave",
 		"portuguese": "A tribo brava",
 		"spanish": "La Tribu Brava",
@@ -4986,6 +5014,7 @@
 	"goblinFactionName_16": {
 		"english": "The Enduring People",
 		"german": "Das ausdauernde Volk",
+		"turkish": "Kalıcı İnsanlar",
 		"french": "Les Persistants",
 		"portuguese": "O povo duradouro",
 		"spanish": "El Pueblo Duradero",
@@ -5001,6 +5030,7 @@
 	"goblinFactionName_17": {
 		"english": "The Last Real People of the Island",
 		"german": "Das letzte echte Volk der Insel",
+		"turkish": "Adanın Son Gerçek İnsanları",
 		"french": "Le Dernier Vrai Peuple de l'Île",
 		"portuguese": "O último povo real da ilha",
 		"spanish": "El Último Pueblo Real de la Isla",
@@ -5016,6 +5046,7 @@
 	"goblinFactionName_18": {
 		"english": "The Mighty Warriors of the Forest",
 		"german": "Die mächtigen Krieger des Waldes",
+		"turkish": "Ormanın Güçlü Savaşçıları",
 		"french": "Les Puissants Guerriers de la Forêt",
 		"portuguese": "Os poderosos guerreiros da floresta",
 		"spanish": "Los Poderosos Guerreros del Bosque",
@@ -5031,6 +5062,7 @@
 	"goblinFactionName_19": {
 		"english": "The People of Strength",
 		"german": "Das Volk der Stärke",
+		"turkish": "Güçlü İnsanlar",
 		"french": "Le Peuple de la Force",
 		"portuguese": "O Povo de Força",
 		"spanish": "El Pueblo de la Fuerza",
@@ -5046,6 +5078,7 @@
 	"goblinFactionName_20": {
 		"english": "The Great Overlords",
 		"german": "Die großen Herrschaften",
+		"turkish": "Büyük Derebeyiler",
 		"french": "Les Grands Seigneurs",
 		"portuguese": "Os Grandes Senhores Supremos",		
 		"spanish": "Los Grandes Senhores Supremos",
@@ -5061,6 +5094,7 @@
 	"goblinFactionName_21": {
 		"english": "The Greedy Villagers",
 		"german": "Die gierigen Dörfler",
+		"turkish": "Açgözlü Köylüler",
 		"french": "Les Villageois Gourmands",
 		"portuguese": "Os aldeões gananciosos",
 		"spanish": "Los Aldeanos Codiciosos",
@@ -5076,6 +5110,7 @@
 	"goblinFactionName_22": {
 		"english": "The Friendly Tribe",
 		"german": "Der freundliche Stamm",
+		"turkish": "Dost Kabile",
 		"french": "La Tribu Amicale",
 		"portuguese": "A tribo amigável",
 		"spanish": "La Tribu Amigable",
@@ -5091,6 +5126,7 @@
 	"goblinFactionName_23": {
 		"english": "The Everlasting Community",
 		"german": "Die immerwährende Gemeinschaft",
+		"turkish": "Sonsuz Topluluk",
 		"french": "La Communauté Éternelle",
 		"portuguese": "A comunidade eterna",
 		"spanish": "La Comunidad Eterna",
@@ -5106,6 +5142,7 @@
 	"goblinFactionName_24": {
 		"english": "The Little Village",
 		"german": "Das kleine Dorf",
+		"turkish": "Küçük Köy",
 		"french": "Le Petit Village",
 		"portuguese": "A pequena aldeia",
 		"spanish": "La Pequeña Aldea",
@@ -5121,6 +5158,7 @@
 	"goblinFactionName_25": {
 		"english": "The Little People",
 		"german": "Das kleine Volk",
+		"turkish": "Küçük İnsanlar",
 		"french": "Le Petit Peuple",
 		"portuguese": "As pessoas pequenas",
 		"spanish": "La Gente Pequeña",
@@ -5136,6 +5174,7 @@
 	"goblinFactionName_26": {
 		"english": "The Honorable Warriors",
 		"german": "Die ehrenvollen Krieger",
+		"turkish": "Onurlu Savaşçılar",
 		"french": "Les Honorables Guerriers",
 		"portuguese": "Os honoráveis guerreiros",
 		"spanish": "Los Guerreros Honorables",
@@ -5151,6 +5190,7 @@
 	"goblinFactionName_27": {
 		"english": "The Proud Goblins",
 		"german": "Die stolzen Goblins",
+		"turkish": "Gururlu Goblinler",
 		"french": "Les Fiers Gobelins",
 		"portuguese": "Os goblins orgulhosos",
 		"spanish": "Los Goblins Orgullosos",
@@ -5166,6 +5206,7 @@
 	"goblinFactionName_28": {
 		"english": "The Goblins of the old Stone",
 		"german": "Die Goblins des alten Steines",
+		"turkish": "Eski Taş Goblinleri",
 		"french": "Les Gobelins de la Vieille Pierre",
 		"portuguese": "Os goblins da velha pedra",
 		"spanish": "Los Goblins de la vieja Piedra",
@@ -5181,6 +5222,7 @@
 	"goblinFactionName_29": {
 		"english": "The Silent Hunters",
 		"german": "Die stillen Jäger",
+		"turkish": "Sessiz Avcılar",
 		"french": "Les Chasseurs Silencieux",
 		"portuguese": "Os caçadores silenciosos",
 		"spanish": "Los Cazadores Sigilosos",
@@ -5196,6 +5238,7 @@
 	"goblinFactionName_30": {
 		"english": "The Humble People",
 		"german": "Das bescheidene Volk",
+		"turkish": "Mütevazı İnsanlar",
 		"french": "Le Peuple Humble",
 		"portuguese": "As pessoas humildes",
 		"spanish": "El Pueblo Humilde",
@@ -5211,6 +5254,7 @@
 	"goblinFactionName_31": {
 		"english": "The Children of the Forest",
 		"german": "Die Kinder des Waldes",
+		"turkish": "Ormanın Çocukları",
 		"french": "Les Enfants de la Forêt",
 		"portuguese": "Os filhos da floresta",
 		"spanish": "Los Hijos del Bosque",
@@ -5233,6 +5277,7 @@
 	"tradersGuild": {
 		"english": "The Traders' Guild",
 		"german": "Die Händlergilde",
+		"turkish": "Tüccarlar Loncası",
 		"french": "La Guilde des marchands",
 		"portuguese": "Guilda dos comerciantes",
 		"spanish": "El Gremio de los Comerciantes",
@@ -5248,6 +5293,7 @@
 	"captainsPirates": {
 		"english": "Captain %name%'s Pirates",
 		"german": "Käptn %name%'s Piraten",
+		"turkish": "Kaptan %name%'nin Korsanları",
 		"spanish": "Los Piratas del Capitán %name%",
 		"dutch": "Kapitein %name%'s piraten",
 		"french": "Pirates du capitaine %name%",

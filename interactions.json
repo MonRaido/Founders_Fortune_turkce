@@ -1,4 +1,4 @@
-{
+﻿{
 	// INTERACTIONS
 	"NoInteraction": {
 		"english": "Do Nothing",
@@ -255,6 +255,7 @@
 	"interaction_Plant": { // for example when planting a tree. Game mechanics are similar/same as sow
 		"english": "Plant",
 		"german": "Pflanzen",
+		"turkish": "Bitki",
 		"french": "Planter",
 		"spanish": "Planta",
 		"dutch": "Plant",
@@ -414,6 +415,7 @@
 	"DrinkElixirOfYouth": {
 		"english": "Drink Elixir of Youth",
 		"german": "Elixier der Jugend trinken",
+		"turkish": "Gençlik İksiri iç",
 		"french": "Boire un élixir de jeunesse",
 		"spanish": "Bebe un Elixir de Juventud",
 		"dutch": "Drink Elixir van de Jeugd",
@@ -555,6 +557,7 @@
 	"LearnLifeSkills": { // refers to all the things kids need to learn in order to grow up properly
 		"english": "Learn Life Skills",
 		"german": "Lerne Grundlagen",
+		"turkish": "Yaşam Becerilerini Öğrenin",
 		"french": "Apprendre les fondamentaux",
 		"spanish": "Aprende Habilidades para la Vida",
 		"dutch": "Leer levensvaardigheden",
@@ -1362,6 +1365,7 @@
 	"interaction_weave": {
 		"english": "Weave",
 		"german": "Weben",
+		"turkish": "örgü",
 		"french": "Tisser",
 		"spanish": "Teje",
 		"dutch": "Weven",
@@ -1449,6 +1453,7 @@
 	"TalkAboutFood": {
 		"english": "Talk about Food",
 		"german": "Über Essen reden",
+		"turkish": "Yemek hakkında konuşun",
 		"french": "Parler de nourriture",
 		"spanish": "Habla sobre comida",
 		"dutch": "Over eten praten",
@@ -1486,7 +1491,7 @@
 		"spanish": "Toma la propiedad",
 		"turkish": "Sahiplen",
 		"portuguese": "Apropriar",
-		"dutch": "Wordt Eigenaar",
+		"dutch": "Eigendom nemen",
 		"russian": "Завладеть",
 		"ukrainian":"Стати власником",
 		"korean": "이 장비 가지기",
@@ -1771,6 +1776,7 @@
 	"HugPerson": {
 		"english": "Hug %name%",
 		"german": "%name% umarmen",
+		"turkish": "%name% e sarıl",
 		"french": "Enlacer %name%",
 		"spanish": "Abraza a %name%",
 		"dutch": "Knuffel %name%",
@@ -1820,6 +1826,7 @@
 	"Insult": {
 		"english": "Insult",
 		"german": "Beleidigen",
+		"turkish": "hakaret etmek",
 		"french": "Insulter",
 		"spanish": "Insulta",
 		"dutch": "Beledig",
@@ -1835,6 +1842,7 @@
 	"InsultPerson": {
 		"english": "Insult %name%",
 		"german": "%name% beleidigen",
+		"turkish": "%name% ye haraket et",
 		"french": "Insulter %name%",
 		"spanish": "Insulta a %name%",
 		"dutch": "Beledig %name%",
@@ -1850,6 +1858,7 @@
 	"Apologize": {
 		"english": "Apologize",
 		"german": "Entschuldigen",
+		"turkish": "özür dile",
 		"french": "S'excuser",
 		"spanish": "Pide disculpas",
 		"dutch": "Verontschuldig",
@@ -1865,6 +1874,7 @@
 	"MagicSmile": { // only used for debugging
 		"english": "Magic Smile",
 		"german": "Magisches Lächeln",
+		"turkish": "Sihirli gülümseme",
 		"french": "Sourire magique",
 		"spanish": "Sonrisa Mágica",
 		"dutch": "Magische glimlach",
@@ -1880,6 +1890,7 @@
 	"Kiss": {
 		"english": "Kiss",
 		"german": "Küssen",
+		"turkish": "Öpücük",
 		"french": "Enbrasser",
 		"spanish": "Besa",
 		"dutch": "Kus",
@@ -1895,6 +1906,7 @@
 	"KissPerson": {
 		"english": "Kiss %name%",
 		"german": "%name% küssen",
+		"turkish": "%name% i öp",
 		"french": "Embrasser %name%",
 		"spanish": "Besa a %name%",
 		"dutch": "Kus %name%",
@@ -1910,6 +1922,7 @@
 	"BreakUp": {
 		"english": "Break up",
 		"german": "Schlussmachen",
+		"turkish": "Ayrılmak",
 		"french": "Se séparer",
 		"spanish": "Termina",
 		"dutch": "Uit elkaar gaan",
@@ -1928,6 +1941,7 @@
 	"ReceiveInteraction": {
 		"english": "Wait for someone",
 		"german": "Warte auf jemanden",
+		"turkish": "birini bekle",
 		"french": "Attend quelqu'un",
 		"spanish": "Espera a alguien",
 		"dutch": "Wacht op iemand",
@@ -1943,6 +1957,7 @@
 	"RiskyJoke": {
 		"english": "Risky Joke",
 		"german": "Riskanter Witz",
+		"turkish": "Riskli Şaka",
 		"french": "Blague risquée",
 		"spanish": "Broma Arriesgada",
 		"dutch": "Riskante grap",
@@ -1958,6 +1973,7 @@
 	"TellRiskyJokeTo": {
 		"english": "Tell Risky Joke to %name%",
 		"german": "%name% riskanten Witz erzählen",
+		"turkish": "Riskli Şakayı %name%'ye söyle",
 		"french": "Dire une blague risquée à %name%",
 		"spanish": "Cuenta una Broma Arriesgada a %name%",
 		"dutch": "Vertel een riskante grap aan %name%",
@@ -1974,6 +1990,7 @@
 	"Impress": {
 		"english": "Impress",
 		"german": "Beeindrucken",
+		"turkish": "Etkilemek",
 		"french": "Impressionner",
 		"spanish": "Impresiona",
 		"dutch": "Indruk maken",
@@ -1990,6 +2007,7 @@
 	"ImpressPerson": {
 		"english": "Impress %name%",
 		"german": "%name% Beeindrucken",
+		"turkish": "%name% i Etkilemek",
 		"french": "Impressionner %name%",
 		"spanish": "Impresiona a %name%",
 		"dutch": "Op %name% indruk maken",
@@ -2005,6 +2023,7 @@
 	"BuildSnowman": {
 		"english": "Build Snowman",
 		"german": "Schneemann bauen",
+		"turkish": "Kardan Adam Yap",
 		"french": "Construire un bonhomme de neige",
 		"spanish": "Consrtuye un Muñeco de Nieve",
 		"dutch": "Maak een Sneeuwpop",
@@ -2020,6 +2039,7 @@
 	"Care": { // caring for plants, animals, colleagues, ...
 		"english": "Care",
 		"german": "Pflegen",
+		"turkish": "Bakım",
 		"french": "Prendre soin",
 		"spanish": "Cuidar",
 		"dutch": "Zorgen",
@@ -2035,6 +2055,7 @@
 	"TeachLifeSkills": {
 		"english": "Educate",
 		"german": "Ausbilden",
+		"turkish": "Eğitim vermek",
 		"spanish": "Educar",
 		"dutch": "Opleiden",
 		"french": "Éduquer",
@@ -2050,6 +2071,7 @@
 	"WorkOnMasterpiece": {
 		"english": "Work on Masterpiece",
 		"german": "An Meisterwerk arbeiten",
+		"turkish": "Başyapıt üzerinde çalışın",
 		"french": "Travail sur un chef-d'œuvre",
 		"spanish": "Trabaja en una Obra Maestra",
 		"dutch": "Werken aan Meesterwerk",
@@ -2065,6 +2087,7 @@
 	"Tame": {
 		"english": "Tame",
 		"german": "Zähmen",
+		"turkish": "Evcilleştirmek",
 		"french": "Apprivoiser",
 		"spanish": "Domestica",
 		"dutch": "Tem",
@@ -2080,6 +2103,7 @@
 	"careForAnimal": {
 		"english": "Care for Animal",
 		"german": "Um Tier kümmern",
+		"turkish": "Hayvanlar için bakım",
 		"french": "Prendre soin de l'animal",
 		"spanish": "Cuida al animal",
 		"dutch": "Zorgen voor een dier",
@@ -2095,6 +2119,7 @@
 	"Shear": {
 		"english": "Shear",
 		"german": "Scheren",
+		"turkish": "koyun kırkma",
 		"french": "Tondre",
 		"spanish": "Esquila",
 		"dutch": "Scheren",
@@ -2110,6 +2135,7 @@
 	"Butcher": {
 		"english": "Butcher",
 		"german": "Schlachten",
+		"turkish": "Kasap",
 		"french": "Abattre",
 		"spanish": "Mata",
 		"dutch": "Slager",
@@ -2125,6 +2151,7 @@
 	"Milk": {
 		"english": "Milk",
 		"german": "Melken",
+		"turkish": "Süt",
 		"french": "Lait",
 		"spanish": "Ordeña",
 		"dutch": "Melk",
@@ -2140,6 +2167,7 @@
 	"interaction_clearStumps": {
 		"english": "Remove Stump",
 		"german": "Baumstumpf entfernen",
+		"turkish": "Ağaç kütüğünü kaldır",
 		"french": "Retirer la souche",
 		"spanish": "Remueve el tocón",
 		"dutch": "Verwijder stomp",
@@ -2155,11 +2183,13 @@
 	"interaction_produceShip":  {
 		"english": "Build Ship",
 		"german": "Schiff Bauen",
+		"turkish": "Gemi İnşa et",
 		"french": "Construire le navire",
 		"spanish": "Construye un Barco",
 		"dutch": "Bouw een schip",
 		"polish": "Buduj statek",
 		"portuguese": "Construir navio",
+		"italian": "Costruisci Barca",
 		"chinese": "建造船只",
 		"japanese":"造船",
 		"czech": "Postav loď",
@@ -2169,55 +2199,73 @@
 	"ResetTrap":  {
 		"english":  "Reset Trap",
 		"german":  "Falle aufbauen",
+		"turkish": "Tuzağı Sıfırla",
 		"french": "Réinitialiser le piège",
+		"dutch": "Reset de Val",
 		"japanese": "罠を仕掛ける",
 		"korean": "덫 재설치",
 		"portuguese": "Reiniciar armadilha",
+		"italian": "Rigenera Trappola",
 		"russian":  "Перезапустить ловушку",
 	},
 	"EquipAxe":  {
 		"english":  "Equip Axe",
 		"german":  "Axt ausrüsten",
+		"turkish": "Balta donatmak",
 		"french": "Équiper la hache",
+		"dutch": "Uitrusting Bijl",
 		"japanese": "斧を装備",
 		"korean": "도끼 장착",
 		"portuguese": "Equipar picado",
+		"italian": "Equipaggia Ascia",
 		"russian":  "Снарядить топором",
 	},
 	"EquipPickaxe":  {
 		"english":  "Equip Pickaxe",
 		"german":  "Picke ausrüsten",
+		"turkish": "kazma kuşan",
 		"french": "Équiper la pioche",
+		"dutch": "Uitrusting Pikhouweel",
 		"japanese": "ツルハシを装備",
 		"korean": "곡괭이 장착",
 		"portuguese": "Equipar picareta",
+		"italian": "Equipaggia Piccone",
 		"russian":  "Снарядить киркой",
 	},
 	"EquipWateringCan":  {
 		"english":  "Equip Watering Can",
 		"german":  "Gießkanne ausrüsten",
+		"turkish": "Sulama kabı donatın",
 		"french": "Équiper l'arrosoir",
+		"dutch": "Uitrusting gieter",
 		"japanese": "じょうろを装備",
 		"korean": "물뿌리개 장착",
 		"portuguese": "Equipar regador",
+		"italian": "Equipaggia Innaffiatoio",
 		"russian":  "Снарядить лейкой",
 	},
 	"EquipOneHanded":  {
 		"english":  "Equip Weapon",
 		"german":  "Waffe ausrüsten",
+		"turkish": "Silah kuşan",
 		"french": "Équiper l'arme",
+		"dutch": "Uitrusting Wapen",
 		"japanese": "武器を装備",
 		"korean": "무기 장착",
 		"portuguese": "Equipar arma",
+		"italian": "Equipaggia Arma",
 		"russian":  "Снарядить оружием",
 	},
 	"EquipBow":  {
 		"english":  "Equip Bow",
 		"german":  "Bogen ausrüsten",
+		"turkish": "Yay Donanın",
 		"french": "Équiper l'arc",
+		"dutch": "Uitrusting Boog",
 		"japanese": "弓を装備",
 		"korean": "활 장착",
 		"portuguese": "Equipar arco",
+		"italian": "Equipaggia Arco",
 		"russian":  "Снарядить луком",
 	},
 
@@ -2273,6 +2321,7 @@
 	"RiskyJokeFaction": {
 		"english": "Tell joke to member of \"%faction%\"",
 		"german": "Witz Mitglied der Fraktion \"%faction%\" erzählen",
+		"turkish": "\"%fraksiyon%\" üyesine şaka yap",
 		"french": "Raconter une blague au membre de « %faction% »",
 		"spanish": "Contar un chiste a un miembro de \"%faction%\"",
 		"dutch": "Vertel een mop aan lid van \"%faction%\"",
@@ -2532,6 +2581,7 @@
 	"nextInteractionIn": {
 		"english": "Next interaction in %time%",
 		"german": "Nächste Interaktion in %time%",
+		"turkish": "%time% sonraki etkileşim",
 		"french": "Prochaine interaction dans %time%",
 		"spanish": "Siguiente interacción en %time%",
 		"dutch": "Volgende interactie in %time%",
@@ -2705,6 +2755,7 @@
 	"missingSkill": {
 		"english": "Missing skill: %skill%",
 		"german": "Fähigkeit fehlt: %skill%",
+		"turkish": "Eksik yetenek: %skill%",
 		"french": "Compétence manquante : %skill%",
 		"russian": "Отсутствует навык: %skill%",
 		"spanish": "Habilidad requerida: %skill%",

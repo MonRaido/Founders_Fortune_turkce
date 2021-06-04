@@ -1,4 +1,4 @@
-{
+﻿{
 	"english": {
 		"male": {
 			"heShe": "he",
@@ -221,10 +221,32 @@
 	},
 	"turkish": {
 		"male": {
-
+			"heShe": "erkek",
+			"hisHer": "onun",
+			"himHer": "o",
+			"himselfHerself": "kendisi",
+			"guyGirl": "adam",
+			"sonDaughter": "oğul",
+			"fatherMother": "baba",
+			"brotherSister": "erkek kardeş",
+			"grandpaGrandma": "büyükbaba",
+			"grandsonGranddaughter": "erkek torun",
+			"uncleAunt": "amca",
+			"nephewNiece": "erkek yeğen",
 		},
 		"female": {
-			
+			"heShe": "kadın",
+			"hisHer": "onun",
+			"himHer": "o",
+			"himselfHerself": "kendisi",
+			"guyGirl": "kız",
+			"sonDaughter": "kız evlat",
+			"fatherMother": "anne",
+			"brotherSister": "kız kardeş",
+			"grandpaGrandma": "büyükanne",
+			"grandsonGranddaughter": "kız torun",
+			"uncleAunt": "teyze",
+			"nephewNiece": "kız yeğen",
 		}
 	},
 	"swedish": {
@@ -484,7 +506,9 @@
 	"italian": {
 		"male": {
 			"OA": "o",
+			"IlLa": "il",
 			"LoLa": "lo",
+			"NoneLa": "",
 			"GliLe": "gli",
 			"UnUna": "un",
 			"RottoRotta": "rotto",
@@ -509,7 +533,9 @@
 		},
 		"female": {
 			"OA": "a",
+			"IlLa": "la",
 			"LoLa": "la",
+			"NoneLa": "la",
 			"GliLe": "le",
 			"UnUna": "una",
 			"RottoRotta": "rotta",

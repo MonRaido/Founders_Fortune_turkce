@@ -1,4 +1,4 @@
-{
+﻿{
 	"traitTitle_Pacifist": {
 		"english": "Pacifist",
 		"german": "Pazifist", 
@@ -747,7 +747,7 @@
 		"portuguese": "%firstName% não confia muito em estranhos. %cap-elEla% não quer ficar muito amigável com outras facções e não tem problema em defender a colônia.",
 		"korean": "%firstName%#{은} 이방인들을 믿지 않습니다. %heShe%는 다른 집단의 사람들과 너무 친하게 지내는 것을 원하지 않으며, 정착지의 방어에 문제가 없길 바랍니다.",
 		"chinese": "%firstName%不太信任陌生人。%heShe%不想和其他派系过于友好，所以保卫殖民地肯定没有问题。",
-		"dutch": "%firstName% vertrouwt vreemdelingen niet. %cap-heShe% wil niet hele goede vrienden worden met andere partijen en heeft er geen probleem me om de kolonie te verdedigen.",
+		"dutch": "%firstName% vertrouwt vreemdelingen niet. %cap-hijZij% wil niet hele goede vrienden worden met andere partijen en heeft er geen probleem mee om de kolonie te verdedigen.",
 		"turkish": "%firstName% yabancılara pek güvenmiyor. O diğer gruplarla çok arkadaş canlısı olmak istemiyor ve yerleşimi savunmada hiçbir problemi yok.",
 		"russian":"%firstName% не доверяет незнакомцам. %cap-heShe% не хочет дружить с другими фракциями.",
 		"italian": "%firstName% non si fida molto degli estranei. Non vuole relazionarsi troppo con le altre fazioni e non ha problemi a difendere la colonia dagli altri.",
@@ -951,6 +951,7 @@
 	"traitTitle_LactoseIntolerant":  {
 		"english":  "Lactose Intolerant",
 		"german":  "Laktoseintolerant",
+		"turkish": "Laktoz intoleransı",
 		"french": "Intolérant%e% au lactose",
 		"spanish": "Intolerante a la lactosa",
 		"dutch": "Lactose intolerant",
@@ -965,6 +966,7 @@
 	"traitDesc_LactoseIntolerant":  {
 		"english":  "Not all people can consume dairy products safely - and unfortunately %firstName% is one of them.",
 		"german":  "Nicht alle Leute können Milchprodukte zu sich nehmen - und %firstName% gehört auch dazu.",
+		"turkish": "Süt ürünlerini herkes güvenle tüketemez - ve ne yazık ki %firstName% bunlardan biri.",
 		"french": "Tout le monde ne peut pas consommer des produits laitiers en toute sécurité - et malheureusement, %firstName% est l'un%e% d'entre eux.",
 		"spanish": "No todas las personas pueden consumir productos lácteos tranquilamente - y desafortunadamente %firstName% es un%oA% de ellas.",
 		"dutch": "Niet alle mensen kunnen veilig zuivel consumeren - en helaas is %firstName% daar een van",
@@ -979,6 +981,7 @@
 	"traitTitle_Vegetarian":  {
 		"english":  "Vegetarian",
 		"german":  "Vegetarier",
+		"turkish": "Vejetaryen",
 		"french": "Végétarien",
 		"spanish": "Vegetarian%oA%",
 		"dutch": "vegetariër",
@@ -993,6 +996,7 @@
 	"traitDesc_Vegetarian":  {
 		"english":  "%firstName% doesn't want to eat meat for a variety of reasons. Don't force %himHer% to.",
 		"german":  "%firstName% möchte aus verschiedenen Gründen kein Fleisch essen. Zwinge %ihnSie% nicht dazu.",
+		"turkish": "%first Name% çeşitli nedenlerle et yemek istemiyor. %Onu% buna zorlama.",
 		"french": "%firstName% ne veut pas manger de viande pour diverses raisons. Ne %leLa% forcez pas à le faire.",
 		"spanish": "%firstName% no quiere comer carne por una variedad de razones. No l%oA% obligues a hacerlo.",
 		"dutch": "%firstName% wil geen vlees eten om verschillende redenen. Dwing %hemHaar% daar niet toe",
@@ -1007,6 +1011,7 @@
 	"traitTitle_AnimalLover":  {
 		"english":  "Animal Lover",
 		"german":  "Tierliebhaber",
+		"turkish": "Hayvan sever",
 		"french": "Ami%e% des animaux",
 		"spanish": "Amante de los Animales",
 		"dutch": "Dieren liefhebber",
@@ -1021,6 +1026,7 @@
 	"traitDesc_AnimalLover":  {
 		"english":  "%firstName% loves animals. Just playing with them for a bit will get %hisHer% mood up instantly.",
 		"german":  "%firstName% liebt Tiere. Ein bisschen mit ihnen zu spielen sorgt für sofortige gute Laune.",
+		"turkish": "%firstName% hayvanları sever. Onlarla biraz oynamak bile anında %hisHer% modunu yükseltecek.",
 		"french": "%firstName% adore les animaux. Il lui suffit de jouer un peu avec eux pour que son humeur s'améliore instantanément.",
 		"spanish": "%firstName% ama a los animales. Solo jugar con ellos por un rato levantará su estado de ánimo inmediatamente.",
 		"dutch": "%firstName% houdt van dieren. Gewoon een beetje met ze spelen zal %hemHaar% stemming een boost geven.",

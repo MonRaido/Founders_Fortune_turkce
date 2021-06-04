@@ -1,4 +1,4 @@
-{
+﻿{
 	// Tier I
 	"tech_woodworking": {
 		"english": "Woodworking",
@@ -516,11 +516,13 @@
 	"tech_shipBuilding": {
 		"english": "Ship Building",
 		"german":  "Schiffsbau",
+		"turkish": "Gemi İnşası",
 		"french": "Construction navale",
 		"spanish": "Construcción Naval",
 		"dutch": "Schip bouwen",
 		"polish": "Budowanie statków",
 		"portuguese": "Construção de Navios",
+		"italian": "Costruzione di barche",
 		"japanese": "造船",
 		"chinese": "造船",
 		"czech": "Stavba lodí",
