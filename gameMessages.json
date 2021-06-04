@@ -1439,6 +1439,7 @@
 	"messageTitle_PirateRaid": {
 		"english": "Pirates have landed on the coast!",
 		"german": "Piraten sind an der Küste gelandet!",
+		"turkish": "Korsanlar kıyıya indi!",
 		"spanish": "¡Los piratas han desembarcado en la costa!",
 		"dutch": "Piraten zijn op de kust geland!",
 		"french": "Des pirates ont débarqué sur la côte !",
@@ -1454,6 +1455,7 @@
 	"messageText_PirateRaid": {
 		"english": "The wild crew jumps from their ship weapons drawn. In their greedy faces you can see high hopes for easy loot.",
 		"german": "Die wilde Crew springt an Land mit gezogenen Waffen. In ihren gierigen Gesichtern siehst du die Vorfreude auf leichte Beute.",
+		"turkish": "Vahşi mürettebat silahları çekilmiş gemilerinden atlar. Açgözlü yüzlerinde kolay ganimet için büyük umutlar görebilirsiniz.",
 		"spanish": "La tripulación salvaje salta de su barco con las armas listas. En sus codiciosos rostros puedes ver grandes expectativas por un botín fácil.",
 		"dutch": "De wilde bemanning bespringt met hun getrokken scheepswapens. In hun hebzuchtige gezichten zie je hoge verwachtingen van een gemakkelijke buit.",
 		"french": "L'équipage déchaîné saute de son navire, armes brandies. Dans leurs visages avides, vous pouvez voir de grands espoirs de pillage facile.",
@@ -2184,6 +2186,7 @@
 	"messageTitle_negativeTraitEvent": {
 		"english":  "Psychological Problems",
 		"german":  "Psychische Probleme",
+		"turkish": "Psikolojik problemler",
 		"french": "Problèmes psychologiques",
 		"spanish": "Problemas psicológicos",
 		"dutch": "Psychologische problemen",
@@ -2198,6 +2201,7 @@
 	"messageText_negativeTraitEvent": {
 		"english":  "%firstName% has been miserable for a long time now. %cap-hisHer% bad mental state has caused %himHer% to gain a new trait: '%trait%'",
 		"german":  "%firstName% fühlt ist jetzt schon lange unglückglich. Sein schlechter mentaler Zustand hat jetzt auch zu anderen Problemen geführt: Er hat jetzt die Eigenschaft '%trait%' bekommen.",
+		"turkish": "%firstName% uzun süredir perişan durumda. %cap-hisHer% kötü zihinsel durum %himHer%'nin yeni bir özellik kazanmasına neden oldu: '%trait%'",
 		"french":  "%firstName% est malheur%euxEuse% depuis trop longtemps. Son mauvais état mental lui a valu un nouveau trait : « %trait% »",
 		"spanish": "%firstName% ha sido miserable por un largo tiempo. Su mal estado mental ha causado que obtenga un nuevo rasgo: '%trait%'",
 		"dutch": "%firstName% voelt zich al een tijdje ongelukkig. %zijnHaar% slechte mentale toestand heeft veroorzaakt dat %himHer% een nieuwe eigenschap te krijgen:'%trait%'",

@@ -377,6 +377,7 @@
 	"thoughtTitle_ColonistDiedOfOldAge": {
 		"english": "Colonist Died of Old Age",
 		"german": "Kolonist im Alter gestorben",
+		"turkish": "Kolonist Yaşlılıktan Öldü",
 		"french": "Un colon est mort de vieillesse",
 		"spanish": "Un colono ha muerto de vejez",
 		"dutch": "Kolonist Overleden",
@@ -391,6 +392,7 @@
 	"thoughtDesc_ColonistDiedOfOldAge": {
 		"english": "%firstName% has lived a long life but we all die sooner or later. We all can be happy to have had %himHer% around.",
 		"german": "%firstName% hat ein langes Leben gelebt, aber wir alle sterben früher oder später. Wir können froh sein, Zeit mit %ihmIhr% verbracht zu haben.",
+		"turkish": "%firstName% uzun bir hayat yaşadı ama hepimiz er ya da geç öleceğiz. Etrafımızda %himHer% olduğu için hepimiz mutlu olabiliriz.",
 		"russian": "%firstName% прожил%surnameA% уже довольно много времени. Но все мы рано или поздно умираем...",
 		"portuguese": "O colono vive há bastante tempo. Mas todos nós morremos mais cedo ou mais tarde ...",
 		"dutch": "%firstName% heeft een lang leven gehad, maar we sterven allemaal vroeg of laat. We kunnen allemaal blij zijn dat we %hemHaar% gekend hebben.",
@@ -1865,6 +1867,7 @@
 	"thoughtTitle_TooFriendlyWithGoblins": {
 		"english": "Too friendly with goblins",
 		"german": "Zu freundlich mit Goblins",
+		"turkish": "Goblinlerle çok arkadaş canlısı",
 		"french": "Trop amical avec des gobelins",
 		"spanish": "Demasiado amigable con goblins",
 		"portuguese": "Demasiado amigável com goblins",
@@ -1880,6 +1883,7 @@
 	"thoughtDesc_TooFriendlyWithGoblins": {
 		"english": "Our colony is friendly with some goblins... I have nothing against peace, but I don't think we should trust them all that much.",
 		"german": "Unsere Kolonie hat sich mit ein paar Goblins angefreundet... Ich habe nichts gegen friedliches Zusammenleben, aber ich glaube wir sollten ihnen nicht so viel Vertrauen schenken.",
+		"turkish": "Kolonimiz bazı goblinlerle dosttur... Barışa karşı hiçbir şeyim yok, ama onlara o kadar güvenmemiz gerektiğini düşünmüyorum.",
 		"french": "Notre colonie est amicale avec des gobelins... Je n'ai rien contre la paix, mais je ne pense pas que nous devrions leur faire confiance.",
 		"spanish": "Nuestra colonia es amistosa con algunos goblins... No tengo nada contra la paz, pero no creo que debamos confiar tanto en ellos.",
 		"portuguese": "Nossa colônia é amigável com alguns goblins ... Não tenho nada contra a paz, mas não acho que devemos confiar tanto neles.",
@@ -1895,6 +1899,7 @@
 	"thoughtTitle_AggressiveRelationsWithGoblins": {
 		"english": "Aggressive relations with goblins",
 		"german": "Aggressive Beziehungen mit Goblins",
+		"turkish": "Goblinlerle agresif ilişkiler",
 		"french": "Relations agressives avec des gobelins",
 		"spanish": "Relaciones agresivas con goblins",
 		"portuguese": "Relações agressivas com goblins",
@@ -1910,6 +1915,7 @@
 	"thoughtDesc_AggressiveRelationsWithGoblins": {
 		"english": "It's a shame we don't live together with the goblins in peace. Can't we find a way to be friends?",
 		"german": "Es ist so schade, dass wir nicht in Frieden mit den Goblins leben. Können wir nicht eine Möglichkeit finden Freunde zu werden?",
+		"turkish": "Goblinlerle birlikte barış içinde yaşamamamız çok yazık. Arkadaş olmanın bir yolunu bulamaz mıyız?",
 		"french": "Dommage qu'on ne vive pas en paix avec les gobelins. On ne peut pas trouver un moyen d'être amis ?",
 		"spanish": "Es una lástima que no podamos vivir juntos con los goblins en paz. ¿No podemos encontrar un modo de ser amigos?",
 		"dutch": "Het is jammer dat we niet in vrede leven met de goblins. Kunnen we geen manier vinden om vrienden te worden?",
@@ -1925,6 +1931,7 @@
 	"thoughtTitle_DislikedVisitorInTown": {
 		"english": "Doesn't like the visitor in town",
 		"german": "Mag den Besucher in der Stadt nicht",
+		"turkish": "Şehirdeki ziyaretçiyi sevmiyor",
 		"french": "N'aime pas le visiteur en ville",
 		"spanish": "No le agrada el visitante en la ciudad",
 		"dutch": "Vindt de bezoeker in de stad niet leuk",
@@ -1940,6 +1947,7 @@
 	"thoughtDesc_DislikedVisitorInTown": {
 		"english": "I don't like these people coming by with their ship. Are we sure they don't take some of our food when we don't watch them?",
 		"german": "Ich mag die Leute nicht, die mit ihrem Schiff vorbeikommen. Wie können wir sicher sein, dass sie nicht etwas von unserem Essen klauen wenn wir nicht aufpassen?",
+		"turkish": "Gemileriyle gelen bu insanlardan hoşlanmıyorum. Biz onlara bakmadığımızda yemeğimizin bir kısmını almadıklarından emin miyiz?",
 		"french": "Je n'aime pas que ces gens viennent avec leur navire. Est-ce que nous somme sûrs qu'ils ne prennent pas une petite partie de notre nourriture quand on ne les regarde pas ?",
 		"spanish": "No me gusta que esta gente venga con su navío. ¿Estamos seguros que ellos no toman un poco de nuestra comida cuando no los vemos?",
 		"portuguese": "Eu não gosto dessas pessoas vindo com o seu navio. Temos certeza de que eles não tomam um pouco de nossa comida quando não os assistimos?",
@@ -1956,6 +1964,7 @@
 	"thoughtTitle_LovesSpring": {
 		"english": "Loves Spring",
 		"german": "Liebt den Frühling",
+		"turkish": "Baharı Sever",
 		"french": "Aime le printemps",
 		"spanish": "Ama la Primavera",
 		"portuguese": "Ama a primavera",
@@ -1971,6 +1980,7 @@
 	"thoughtDesc_LovesSpring": {
 		"english": "Do you feel that? The atmosphere around here? It's spring and everything around us is fresh and new! I love it!",
 		"german": "Fühlst du das? Die Umgebung hier? Es ist Frühling und alles um uns ist frisch und neu! Ich liebe es!",
+		"turkish": "Bunu hissediyor musun? Buradaki atmosfer? Bahar geldi ve etrafımızdaki her şey taze ve yeni! Onu seviyorum!",
 		"french": "Vous sentez ça ? L'atmosphère ici ? C'est le printemps et tout autour de nous est frais et nouveau ! J'adore ça !",
 		"spanish": "¿Sientes eso? ¿La atmósfera por aquí? ¡Es primavera y todo alrededor de nosotros es fresco y nuevo! ¡Me encanta!",
 		"portuguese": "Você sente isso? A atmosfera por aqui? É primavera e tudo ao nosso redor é fresco e novo! Eu amo isso!",
@@ -1986,6 +1996,7 @@
 	"thoughtTitle_LovesSummer": {
 		"english": "Loves Summer",
 		"german": "Liebt den Sommer",
+		"turkish": "Yazı sever",
 		"french": "Aime l'été",
 		"spanish": "Ama el Verano",
 		"portuguese": "Ama o verão",
@@ -2002,6 +2013,7 @@
 	"thoughtDesc_LovesSummer": {
 		"english": "The warm air and the good weather make me think of vacation. I love summer!",
 		"german": "Die warme Luft und das gute Wetter lassen mich an Urlaub denken. Ich liebe den Sommer!",
+		"turkish": "Sıcak hava ve güzel hava bana tatili düşündürüyor. Yazı Seviyorum!",
 		"french": "L'air chaud et le beau temps me font penser à des vacances. J'adore l'été !",
 		"spanish": "El aire cálido y el buen clima me hace pensar en las vacaciones. ¡Me encanta el verano!",
 		"portuguese": "O ar quente e o bom tempo me fazem pensar em férias. Eu amo o Verão!",
@@ -2017,6 +2029,7 @@
 	"thoughtTitle_HatesFall": {
 		"english": "Hates Fall",
 		"german": "Hasst den Herbst",
+		"turkish": "Sonbahardan Nefret Ediyor",
 		"french": "Déteste l'automne",
 		"spanish": "Odia el Otoño",
 		"portuguese": "Odeia outono",
@@ -2032,6 +2045,7 @@
 	"thoughtDesc_HatesFall": {
 		"english": "I had a friend who loved all the warm colors on the trees. Not me. I don't care for fall at all.",
 		"german": "Ich hatte mal einen Kumpel der die warmen Farben an den Bäumen geliebt hat. Auf mich trifft das nicht zu. Ich mag den Herbst überhaupt nicht.",
+		"turkish": "Ağaçlardaki tüm sıcak renkleri seven bir arkadaşım vardı. Ben değilim. Düşmeyi hiç umursamıyorum.",
 		"french": "J'avais un ami qui aimait les couleurs chaudes des arbres. Pas moi. Je n'aime pas du tout l'automne.",
 		"spanish": "Tuve un amigo que amaba todos los colores cálidos en los árboles. Yo no. No me importa el otoño en lo absoluto.",
 		"portuguese": "Eu tinha um amigo que amava as cores das árvores. Eu não. Eu não me importo com a temporada de outono.",
@@ -2047,6 +2061,7 @@
 	"thoughtTitle_HatesWinter": {
 		"english": "Hates Winter",
 		"german": "Hasst den Winter",
+		"turkish": "Kıştan Nefret Eder",
 		"french": "Déteste l'hiver",
 		"spanish": "Odia el Invierno",
 		"portuguese": "Odeia o inverno",
@@ -2062,6 +2077,7 @@
 	"thoughtDesc_HatesWinter": {
 		"english": "Brr. I can't wait for the weather to get warmer again.",
 		"german": "Brr. Ich kann es nicht abwarten, dass das Wetter wieder wärmer wird.",
+		"turkish": "Brr. Havaların tekrar ısınmasını bekleyemem.",
 		"french": "Brr. J'ai hâte que le temps redevienne plus chaud.",
 		"spanish": "Brr. No puedo esperar a que el clima vuelva a ser más cálido otra vez.",
 		"portuguese": "Brr. Eu não posso esperar para o clima ficar mais quente novamente.",
@@ -2077,6 +2093,7 @@
 	"thoughtTitle_WasQuestioned": {
 		"english": "Was Questioned",
 		"german": "Wurde ausgefragt",
+		"turkish": "sorgulandı",
 		"spanish": "Fue interrogado",
 		"french": "A été interrogé",
 		"dutch": "Werd ondervraagd",
@@ -2092,6 +2109,7 @@
 	"thoughtDesc_WasQuestioned": {
 		"english": "I don't like being questioned like that.",
 		"german": "Ich möchte nicht so ausgefragt werden",
+		"turkish": "Böyle sorgulanmaktan hoşlanmıyorum.",
 		"spanish": "No me gusta ser interrogado así.",
 		"dutch": "Ik hou er niet van om zo ondervraagd te worden.",
 		"french": "Je n'aime pas qu'on me pose des questions comme ça.",
@@ -2109,6 +2127,7 @@
 	"thoughtTitle_TiredOfStudying": {
 		"english": "Tired of Studying",
 		"german": "Hat genug vom Lernen",
+		"turkish": "ders çalışmaktan bıktım",
 		"french": "Fatigué d'étudier",
 		"spanish": "Cansado de estudiar",
 		"dutch": "Moe van het studeren",
@@ -2123,6 +2142,7 @@
 	"thoughtDesc_TiredOfStudying": {
 		"english": "Nooo. I don't want to study anymooore! Why do I have to learn this? I'm never gonna need to know this for sure.",
 		"german": "Nein! Ich will nicht mehr lernen! Wieso muss ich das überhaupt? Ich werde das ganze Wissen bestimmt sowieso nicht brauchen.",
+		"turkish": "Hayır. Artık ders çalışmak istemiyorum! Bunu neden öğrenmek zorundayım? Bunu asla kesin olarak bilmem gerekmeyecek.",
 		"french": "Nooon ! Je ne veux plus étudier ! Pourquoi apprendre ça ? Je n'en aurai jamais besoin.",
 		"spanish": "Nooo ¡Ya no quiero estudiar más! ¿Por qué tengo que aprender esto? De seguro nunca voy a necesitar saber esto.",
 		"dutch": "Nee. Ik wil niet meer studeren! Waarom moet ik dit leren? Ik hoef dit nooit zeker te weten.",
@@ -2138,6 +2158,7 @@
 	"thoughtTitle_BadJoke": {
 		"english": "Had to witness terrible joke",
 		"german": "Schrecklichen Witz gehört",
+		"turkish": "Korkunç bir şakaya tanık olmak zorunda kaldı",
 		"french": "A dû assister à une terrible blague",
 		"spanish": "Tuvo que escuchar una broma terrible",
 		"dutch": "Was getuige van een vreselijke grap",
@@ -2152,6 +2173,7 @@
 	"thoughtDesc_BadJoke": {
 		"english": "Oh my god, did you hear %firstName%'s joke? It was so cheesy that my life is worse for hearing it.",
 		"german": "Oh mein Gott, hast du %firstName%'s Witz gehört? Der war so schlecht, dass mein Leben durch's Zuhören schlechter geworden ist.",
+		"turkish": "Aman tanrım,%firstName%'in şakasını duydun mu? O kadar kötüydü ki dinlemek hayatımı daha da kötüleştirdi.",
 		"french": "Oh mon Dieu, vous avez entendu la blague de %firstName% ? C'était tellement ringard que ma vie a empiré quand je l'ai entendue.",
 		"spanish": "Oh Dios mío, ¿escuchaste la broma de %firstName%? Fue tan desagradable que mi vida caba de empeorar solo por oírla.",
 		"dutch": "Oh mijn god, heb je gehoord van %firstName%'s grap? Het was zo goedkoop dat mijn leven erger is om het te horen.",
@@ -2166,6 +2188,7 @@
 	"thoughtTitle_PutSomeoneElseDown": {
 		"english": "Put someone else down",
 		"german": "Jemanden niedergemacht",
+		"turkish": "Bir kişiyi öldürdü",
 		"french": "A frappé quelqu'un",
 		"spanish": "Menospreció a alguien",
 		"dutch": "Teneergeslagen zijn",
@@ -2180,6 +2203,7 @@
 	"thoughtDesc_PutSomeoneElseDown": {
 		"english": "Say what you want, but I think %firstName% deserved the rant. Voicing my honest opinions makes me feel good about myself.",
 		"german": "Sag was du willst, aber ich finde %firstName% hat meine Standpauke verdient. Es fühlt sich gut an, %ihmIhr% meine Meinung gesagt zu haben.",
+		"turkish": "İstediğini söyle, ama bence %firstName% rantını hak etti. Dürüst görüşlerimi dile getirmek kendimi iyi hissetmemi sağlıyor.",
 		"french": "Dites ce que vous voulez, mais je pense que %firstName% méritait cela. En exprimant mon opinion honnêtement, je me sens mieux dans ma peau.",
 		"spanish": "Di lo que quieras, pero creo que %firstName% se merecía esa diatriba. Expresar mis opiniones honestas me hace sentir bien.",
 		"dutch": "Zeg wat je wilt, maar ik denk dat %firstName% verdiende de tirade. Het uiten van mijn eerlijke meningen geeft me een goed gevoel over mezelf.",
@@ -2194,6 +2218,7 @@
 	"thoughtTitle_ReceivedInsult": {
 		"english": "Received Insult",
 		"german": "Wurde beleidigt",
+		"turkish": "hakaret edildi",
 		"french": "Insulte reçue",
 		"spanish": "Recibió un insulto",
 		"dutch": "Ontvang belediging",
@@ -2208,6 +2233,7 @@
 	"thoughtDesc_ReceivedInsult": {
 		"english": "%firstName% just gravely insulted me. That was uncalled for!",
 		"german": "%firstName% hat mich zutiefst beleidigt. So weit hätte %erSie% nicht gehen müssen!",
+		"turkish": "%firstName% az önce bana ciddi şekilde hakaret etti. Bu umrumda değildi!",
 		"french": "%firstName% vient de m'insulter violemment. C'était déplacé !",
 		"spanish": "%firstName% me insultó gravemente ¡Eso estuvo fuera de lugar!",
 		"dutch": "%firstName% heeft me gewoon ernstig beledigd. Dat was niet nodig!",
@@ -2222,6 +2248,7 @@
 	"thoughtTitle_Parenthood": {
 		"english": "Parenthood",
 		"german": "Elternschaft",
+		"turkish": "ebeveynlik",
 		"french": "Paternité",
 		"spanish": "Paternidad",
 		"dutch": "Ouderschap",
@@ -2236,6 +2263,7 @@
 	"thoughtDesc_Parenthood": {
 		"english": "Children can be exhausting, but they also give me strength.",
 		"german": "Kinder können anstrengend sein, aber sie geben mir auch Kraft.",
+		"turkish": "Çocuklar yorucu olabilir ama bana güç de veriyorlar.",
 		"french": "Les enfants peuvent être épuisants, mais ils me donnent aussi de la force.",
 		"spanish": "Los niños pueden ser agotadores, pero también me fortalecen.",
 		"dutch": "Kinderen kunnen vermoeiend zijn, maar ze geven me ook kracht.",
@@ -2249,6 +2277,7 @@
 	"thoughtTitle_FeelingDeadInside": {
 		"english": "Feeling Dead Inside",
 		"german": "Fühlt sich innerlich tot",
+		"turkish": "İçinde ölü hissediyor",
 		"french": "Se sent mort à l'intérieur",
 		"spanish": "Muerto por dentro",
 		"dutch": "Dood gevoel van binnen",
@@ -2262,6 +2291,7 @@
 	"thoughtDesc_FeelingDeadInside": {
 		"english": "That Elixir has rejuvenated my body, but it clouds my mind. I feel older than ever.",
 		"german": "Dieses Elixier hat meinen Körper verjüngt, aber es benebelt meinen Kopf. Ich fühle mich älter denn je.",
+		"turkish": "O İksir vücudumu gençleştirdi ama aklımı bulandırıyor. Kendimi her zamankinden daha yaşlı hissediyorum.",
 		"french": "Cet élixir a rajeuni mon corps, mais il obscurcit mon esprit. Je me sens plus vieux que jamais.",
 		"spanish": "Ese Elixir ha rejuvenecido mi cuerpo, pero nubló mi mente. Me siento más viejo que nunca.",
 		"dutch": "Die Elixir heeft mijn lichaam verjongd, maar het vertroebelt mijn geest. Ik voel me ouder dan ooit.",
@@ -2275,6 +2305,7 @@
 	"thoughtTitle_BuiltSnowman": {
 		"english": "Built Snowman",
 		"german": "Schneemann gebaut",
+		"turkish": "Kardan Adam Yapmak",
 		"french": "Bonhomme de neige construit",
 		"spanish": "Creó un Muñeco de Nieve",
 		"dutch": "Sneeuwman gebouwd",
@@ -2288,6 +2319,7 @@
 	"thoughtDesc_BuiltSnowman": {
 		"english": "Wow, I didn't think I'd have so much fun building a snowman.",
 		"german": "Wow, ich hätte nie gedacht, dass es mir so viel Spaß macht, einen Schneemann zu bauen.",
+		"turkish": "Vay canına, kardan adam yaparken bu kadar eğleneceğimi düşünmemiştim.",
 		"french": "Waouh ! Je ne pensais pas que je m'amuserais autant à construire un bonhomme de neige.",	
 		"russian": "Вау, я и не думал, что строить снеговиков это так весело!",
 		"spanish": "¡Wow, no pensé que me divertiría tanto construyendo un muñeco de nieve.",
@@ -2301,6 +2333,7 @@
 	"thoughtTitle_BadTraitAcceptance": {
 		"english": "Acceptance",
 		"german": "Akzeptanz",
+		"turkish": "Kabul Etmek",
 		"french": "Acceptation",
 		"spanish": "Aceptación",
 		"dutch": "Acceptatie",
@@ -2314,6 +2347,7 @@
 	"thoughtDesc_BadTraitAcceptance": {
 		"english": "I was so miserable I almost had a breakdown. I've accepted the situation and I don't feel so bad for now.",
 		"german": "Mir ging es so schlecht, dass ich fast einen Anfall hatte. Ich habe die Situation akzeptiert und fühle mich aktuell nicht mehr so schlecht.",
+		"turkish": "O kadar mutsuzdum ki neredeyse bir çöküş yaşayacaktım. Durumu kabullendim ve şu an o kadar da kötü hissetmiyorum.",
 		"french": "J'étais si malheur%euxEuse% que j'ai failli faire une dépression. J'ai accepté cette situation et je me sens mieux pour l'instant.",
 		"spanish": "Era tan miserable que casi sufro una crisis nerviosa. He aceptado la situación y ya no me siento tan mal.",
 		"dutch": "Ik was zo ellendig dat ik bijna een inzinking had. Ik heb de situatie geaccepteerd en ik voel me nu niet zo slecht.",
@@ -2327,6 +2361,7 @@
 	"thoughtTitle_AteNonVegetarianFood":  {
 		"english": "Had to eat Meat",
 		"german": "Musste Fleisch essen",
+		"turkish": "Et yemek zorunda kaldı",
 		"french": "A dû manger de la viande",
 		"spanish": "Tuvo que comer carne",
 		"dutch": "Moest vlees eten",
@@ -2340,6 +2375,7 @@
 	"thoughtDesc_AteNonVegetarianFood":  {
 		"english": "I was forced to eat meat against my will! Come on, this is not how I want to live my life!",
 		"german": "Ich wurde gezwungen Fleisch zu essen! Komm schon, so will ich nicht leben!",
+		"turkish": "İradem dışında et yemeye zorlandım! Hadi ama, hayatımı böyle yaşamak istemiyorum!",
 		"french": "J'ai été forcé%e% de manger de la viande contre ma volonté ! Allons, ce n'est pas comme ça que je veux vivre ma vie !",
 		"spanish": "¡Fui forzad%oA% a comer carne contra mi voluntad! ¡Vamos, así no es que quiero vivir mi vida!",
 		"dutch": "Ik werd gedwongen om vlees te eten tegen mijn wil! Kom op, dit is niet hoe ik mijn leven wil leiden!",
@@ -2353,6 +2389,7 @@
 	"thoughtTitle_TalkedToAnimal":  {
 		"english": "Talked to Animal",
 		"german": "Mit Tier gesprochen",
+		"turkish": "Hayvanla Konuştu",
 		"french": "A parlé à un animal",
 		"spanish": "Habló con un animal",
 		"dutch": "Met een dier gesproken",
@@ -2367,6 +2404,7 @@
 	"thoughtDesc_TalkedToAnimal":  {
 		"english": "Man, I love animals. Seeing them happy always puts a smile on my face.",
 		"german": "Ach, ich liebe Tiere. Wenn ich glückliche Tiere sehe, muss ich jedes Mal einfach lächeln.",
+		"turkish": "Dostum, hayvanları seviyorum. Onları mutlu görmek her zaman yüzümde bir gülümseme oluşturuyor.",
 		"french": "J'adore les animaux. Les voir heureux me fait toujours sourire.",
 		"spanish": "Adoro los animales. Verlos felices siempre pone una sonrisa en mi rostro.",
 		"dutch": "Man, ik hou van dieren. Als ik ze gelukkig zie, krijg ik altijd een glimlach op mijn gezicht.",
@@ -2381,6 +2419,7 @@
 	"thoughtTitle_AteStrawberryCake":  {
 		"english": "Ate Strawberry Cake",
 		"german": "Erdbeertorte gegessen",
+		"turkish": "Çilekli Kek yedim",
 		"french": "A mangé un gâteau aux fraises",
 		"spanish": "Comió una tarta de frutilla",
 		"dutch": "Aardbeientaart gegeten",
@@ -2395,6 +2434,7 @@
 	"thoughtDesc_AteStrawberryCake":  {
 		"english": "Oh wow, I just ate the most delicious cake I have ever tasted!",
 		"german": "Oh wow, ich habe gerade die beste Torte gegessen, die ich je gesehen habe!",
+		"turkish": "Vay canına, şimdiye kadar tattığım en lezzetli pastayı yedim!",
 		"french": "Ouah, je viens de manger le gâteau le plus délicieux que j'ai jamais goûté !",
 		"italian": "Oh, wow! Ho appena mangiato la torta più deliziosa che io abbia mai assaggiato!",
 		"dutch": "Oh wow, ik heb net de lekkerste taart gegeten die ik ooit heb geproefd!",
@@ -2407,6 +2447,7 @@
 	"thoughtTitle_SawGoodVibesPainting":  {
 		"english": "Saw great Painting",
 		"german": "Tolles Gemälde gesehen",
+		"turkish": "Harika resim gördüm",
 		"french": "A vu une belle peinture",
 		"spanish": "Vio una pintura genial",
 		"dutch": "Geweldig schilderij gezien",
@@ -2420,6 +2461,7 @@
 	"thoughtDesc_SawGoodVibesPainting":  {
 		"english": "Have you seen that painting? It calms me down just looking at it! The painter must have a peaceful soul.",
 		"german": "Hast du dieses Gemälde gesehen? Ich entspanne mich schon beim anschauen! Der Maler muss eine friedliche Seele haben.",
+		"turkish": "O tabloyu gördün mü? Sadece bakmak bile beni sakinleştiriyor! Ressam huzurlu bir ruha sahip olmalıdır.",
 		"french": "Avez-vous vu ce tableau ? Il me calme rien qu'en le regardant ! Le peintre doit avoir une âme paisible.",
 		"spanish": "¿Has visto esa pintura? ¡Me tranquiliza solo verla! El pintor debe tener un alma apacible.",
 		"dutch": "Heb je dat schilderij gezien? Het kalmeert me alleen maar om er naar te kijken! De schilder moet een vreedzame ziel hebben.",
@@ -2433,6 +2475,7 @@
 	"thoughtTitle_MadePeaceWithPast":  {
 		"english": "Made Peace with Past",
 		"german": "Im Frieden mit der Vergangenheit",
+		"turkish": "Geçmişle Barıştık",
 		"french": "A fait la paix avec le passé",
 		"spanish": "Hizo las paces con el pasado",
 		"dutch": "Vrede met het verleden",
@@ -2446,6 +2489,7 @@
 	"thoughtDesc_MadePeaceWithPast":  {
 		"english": "%firstName% had a chance to talk to his deceased friend and accept their past. %cap-heShe% is now a little wiser and a little happier.",
 		"german": "%firstName% konnte mit %seinemIhrem% verstorbenen Freund sprechen und ihre Vergangenheit akzeptieren. %cap-erSie% ist jetzt ein bisschen weiser und ein bisschen glücklicher.",
+		"turkish": "%firstName%, ölen arkadaşıyla konuşma ve geçmişlerini kabul etme şansı buldu. %cap-heShe% artık biraz daha akıllı ve biraz daha mutlu.",
 		"french": "%firstName% a eu l'occasion de parler à son ami décédé et d'accepter son passé. %cap-ilElle% est maintenant un peu plus sage et un peu plus heur%euxEuse%.",
 		"spanish": "%firstName% tuvo la oportunidad de hablar con su vieja amistad y aceptar su pasado. %cap-élElla% ahora es un poco más sabi%oA% y un poco más feliz.",
 		"dutch": "%firstName% had een kans om met zijn overleden vriend te praten en hun verleden te accepteren. %hijZij% is nu een beetje wijzer en een beetje gelukkiger.",
@@ -2459,6 +2503,7 @@
 	"thoughtTitle_FreedGhostSoul":  {
 		"english": "Freed Ghost's Soul",
 		"german": "Seele des Geistes befreit",
+		"turkish": "Özgür Hayaletin Ruhu",
 		"french": "A libéré l'âme du fantôme",
 		"spanish": "Liberó el alma de un fantasma",
 		"dutch": "Bevrijdde Geest's Soul",
@@ -2472,6 +2517,7 @@
 	"thoughtDesc_FreedGhostSoul":  {
 		"english": "%firstName% was able to free the soul of his dead friend and is now feeling deep relief.",
 		"german": "%firstName% konnte die Seele %seinesIhres% verstorbenen Freundes befreien und fühlt jetzt tiefe Erleichterung.",
+		"turkish": "%firstName%, ölen arkadaşının ruhunu kurtarmayı başardı ve şimdi derin bir rahatlama hissediyor.",
 		"french": "%firstName% a pu libérer l'âme de son ami décédé et ressent maintenant un profond soulagement.",
 		"spanish": "%firstName% fue capaz de liberar el alma de su amistad fallecida y ahora está sintiendo un profundo alivio.",
 		"dutch": "%firstName% was in staat om de ziel van zijn dode vriend te bevrijden en voelt nu een diepe opluchting.",
