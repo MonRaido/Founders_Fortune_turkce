@@ -1,0 +1,4 @@
+Game Version:
+Release 1.1.3
+Forced language:
+turkish
